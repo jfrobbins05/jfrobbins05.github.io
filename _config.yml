@@ -101,23 +101,17 @@ author:
   bio              : "Architecture Student at Vanderbilt University "
   location         : "Nashville, TN & Chicago, IL"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+    - label: "LinkedIn"
+      icon: "https://static.vecteezy.com/system/resources/previews/017/339/645/original/linkedin-icon-free-png.png"
+      url: "www.linkedin.com/in/jacy-robbins-49985a294"
 
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+    - label: "LinkedIn"
+      icon: "https://static.vecteezy.com/system/resources/previews/017/339/645/original/linkedin-icon-free-png.png"
+      url: "www.linkedin.com/in/jacy-robbins-49985a294"
 
 
 # Reading Files
