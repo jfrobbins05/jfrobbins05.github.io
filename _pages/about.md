@@ -1,18 +1,21 @@
 ---
 
-title: "About David Florian"
+title: "About Jacy Robbins"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Vanderbilt University - Bachelor of Arts in Architecture and the Built Environment, Bachelor of Arts in Studio Art 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Minors in Materials Science Engineering; Digital Fabrication; Engineering Management
+* GPA: 4.0/4.0
+* GRE: 170Q 161V
+
+Glenbrook South High School
+* Student of The Glenbrook Academy of International Studies
+* GPA: 5.0/4.0 W, 4.0/4.0 UW
+* SAT: 1560
 
 ## Technical Skills
 
