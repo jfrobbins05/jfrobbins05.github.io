@@ -70,14 +70,14 @@ Other University-Level Involvements: House Programming Advisory Committee (HPAC)
 
 ## Technical Skills
 2D/3D Modeling
-*Fusion 360
-*Revit
-*SketchUp Pro
-*AutoCad
+* Fusion 360
+* Revit
+* SketchUp Pro
+* AutoCad
 
 Manufacturing
-*MIG welding
-*FFF 3D Printing
+* MIG welding
+* FFF 3D Printing
 
 ## Awards
 AP Scholar Award
