@@ -15,7 +15,7 @@ feature_row:
     title: "Linear Actuator Syringe Pump"
     excerpt: "Controlled flow pump allowing medical professionals easy use"
   - image_path: assets/img/Phone Case Project Rendering.png
-    alt: "phone case"
+    alt: "Phone Case"
     title: "Polaroid iPhone 13 Phone Case"
     excerpt: "A protective, fitted case with a stylish twist!"
 ---
