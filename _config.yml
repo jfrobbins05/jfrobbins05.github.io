@@ -89,10 +89,7 @@ author:
 
 # Site Footer
 footer:
-  links:
-    - label: "LinkedIn"
-      icon: "https://static.vecteezy.com/system/resources/previews/017/339/645/original/linkedin-icon-free-png.png"
-      url: "www.linkedin.com/in/jacy-robbins-49985a294"
+  links: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacy-robbins-49985a294/)
 
 
 # Reading Files
