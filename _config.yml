@@ -84,12 +84,12 @@ author:
   avatar           : "assets/img/HEADSHOT HEADSHOT.jpg"
   bio              : "Architecture Student at Vanderbilt University "
   location         : "Nashville, TN & Chicago, IL"
-  links: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacy-robbins-49985a294/)
+  links: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/jacy-robbins-49985a294/")
 
 
 # Site Footer
 footer:
-  links: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacy-robbins-49985a294/)
+  links: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/jacy-robbins-49985a294/")
 
 
 # Reading Files
