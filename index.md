@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Get to Know Me!"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,19 +8,16 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Jacy is a student at Vanderbilt University studying architecture and looking to pursue graduate school and an M.Arch degree. She is a well-rounded student taking everything from art to economics to materials science classes in addition to her architecture course work."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Syringe Pump Rendering.png
+    alt: "Syringe Pump"
+    title: "Linear Actuator Syringe Pump"
+    excerpt: "Controlled flow pump allowing medical professionals easy use"
+  - image_path: assets/img/Phone Case Project.png
+    alt: "phone case"
+    title: "Polaroid iPhone 13 Phone Case"
+    excerpt: "A protective, fitted case with a stylish twist!"
 ---
 
 {% include feature_row %}
