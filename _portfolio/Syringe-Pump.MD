@@ -16,7 +16,9 @@ Project Collaborators: Nathan Park, Isabella Blauzdys, Rylan Hunt
 * **Fitted carriage compartments to snuggly hold 100 mL and 50 mL syringe sizes** Multiple syringe size options allow healthcare workers to select a syringe suitable for the particular application.
 
 # Arduino Code
-[Click Here for Arduino Code for Operation](assets/Arduino Code for Syringe Pump Operation.pdf)
+<a href="assets/Arduino%20Code%20for%20Syring%20Pump%20Operation.pdf" target="_blank">
+  Access Arduino Code for Pump Operation Here
+</a>
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a44efc5598022b02e2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
