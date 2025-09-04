@@ -80,6 +80,8 @@ Manufacturing
 * FFF 3D Printing
 
 ## Awards
+Vanderbilt Crescere Aude Scholar
+
 AP Scholar Award
 
 US Figure Skating triple gold medalist (Moves in the Field, Free Dance, Freestyle)
