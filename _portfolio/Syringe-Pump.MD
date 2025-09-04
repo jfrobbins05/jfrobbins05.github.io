@@ -23,7 +23,7 @@ Project Collaborators: Nathan Park, Isabella Blauzdys, Rylan Hunt
 
 | Component   | Preview                               | Quantity |
 |-------------|---------------------------------------|----------|
-| Base Plate  | <img src="images/base.png" width="80"> | 1        |
+| Base Plate  | <img src="assets/img/Screenshot 2025-08-31 193201.png" width="80"> | 1        |
 | Bolt M6     | <img src="images/bolt.png" width="80"> | 4        |
 | Nut M6      | <img src="images/nut.png" width="80">  | 4        |
 
