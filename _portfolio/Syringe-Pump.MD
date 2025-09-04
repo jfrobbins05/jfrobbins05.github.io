@@ -23,9 +23,9 @@ Project Collaborators: Nathan Park, Isabella Blauzdys, Rylan Hunt
 
 | Component   | Preview                               | Quantity |
 |-------------|---------------------------------------|----------|
-| Base Plate  | <img src="assets/img/Screenshot 2025-08-31 193201.png" width="80"> | 1        |
-| Bolt M6     | <img src="images/bolt.png" width="80"> | 4        |
-| Nut M6      | <img src="images/nut.png" width="80">  | 4        |
+| 12mm Momentary Push Button  | <img src="assets/img/12mm Momentary Push Button" width="80"> | 1        |
+| Arduino Uno     | <img src="assets/img/Arduino Uno" width="80"> | 1        |
+| Limit Switch      | <img src="assets/img/Limit Switch" width="80">  | 1        |
 
 # Arduino Code
 <a href="assets/Arduino%20Code%20for%20Syring%20Pump%20Operation.pdf" target="_blank">
