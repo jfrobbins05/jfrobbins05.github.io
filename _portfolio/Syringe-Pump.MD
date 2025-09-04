@@ -13,7 +13,7 @@ Project Collaborators: Nathan Park, Isabella Blauzdys, Rylan Hunt
 
 # Features
 
-* **Fitted carriage compartments to snuggly hold 100 mL and 50 mL syringe sizes** Multiple syringe size options allow healthcare workers to select a syringe suitable for the particular application.
+* **Fitted carriage compartments to snuggly hold 100 mL and 50 mL syringe sizes** Multiple syringe size options allow healthcare workers to select a syringe suitable for their particular application.
 
 # Arduino Code
 <a href="assets/Arduino%20Code%20for%20Syring%20Pump%20Operation.pdf" target="_blank">
@@ -55,4 +55,4 @@ Refilling or Replacing the Syringe
 * Repeat the syringe loading process above. 
 * Reconnect power, re-enter the syringe size and flow rate through the Serial Monitor, and restart the pump using the latching button. 
 
-{% include gallery caption="Syring Pump Gallery" %}
+{% include gallery caption="Syringe Pump Gallery" %}
