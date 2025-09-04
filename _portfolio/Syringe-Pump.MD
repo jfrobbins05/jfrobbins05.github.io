@@ -27,6 +27,27 @@ Project Collaborators: Nathan Park, Isabella Blauzdys, Rylan Hunt
 | Arduino Uno     | 1 |      
 | Breadboard 400      | 1 |
 | Custom Carriage    | 1 |
+| Electronics Enclosure  | 1 |
+| Flanged Ball Bearing   | 2 |
+| Flexible Coupler     | 1 |
+| LM8UU Linear Bearing  | 1 |
+| Lead Screw TR8x8x250mm | 1 |
+| Limit Switch        | 1 |
+| Linear Rod 8mm x 200mm | 1 |
+| Lock Collar (Lead Screw) | 2 |
+| Lock Collar (Linear Rod  | 2 |
+| M3 x 10mm Bolt       | 4 |
+| M3 x 8mm Thread Forming Screw | 4 |
+| M5 x 8mm Bolt       | 6 |
+| Meanwell RD-65A      | 1 |
+| Momentary Push Button   | 1 |
+| Motor Melting Plate   | 1 |
+| NEMA-17 Motor        | 1 |
+| Nut TR8 x 8-4       | 1 |
+| Syringe End Support   | 1 |
+| Traditional End Support  | 1 |
+| V-Slot 20x40x350mm    | 1 |
+
 
 # Arduino Code
 <a href="assets/Arduino%20Code%20for%20Syring%20Pump%20Operation.pdf" target="_blank">
