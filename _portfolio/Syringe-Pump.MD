@@ -16,7 +16,7 @@ Project Collaborators: Nathan Park, Isabella Blauzdys, Rylan Hunt
 * **Fitted carriage compartments to snuggly hold 100 mL and 50 mL syringe sizes** Multiple syringe size options allow healthcare workers to select a syringe suitable for their particular application.
 * **Adjustable extrusion speed** via Arduino code included below, the speed of extrusion can be easily customized to allow for liquids to be slowly released without manual syringe operation.
 * **Heat/water-resistant configuration** Electrical technology is concealed within a compact box, protecting it from exposure to liquid in the syringe. The motor melting plate, which may heat up due to the motor, is designed with ABS plastic which has a high melting point.
-* **Pausable Motion** Syringe pump can easily be paused to temporarily stop extrusion with the simple push of a button.
+* **Pausable motion system** Syringe pump can easily be paused to temporarily stop extrusion with the simple push of a button.
 * **LED status indicator** LED light shines green for extruding, yellow for paused, and red for empty, allowing health care professionals to easily check the status of the syringe pump.
 
 # Arduino Code
