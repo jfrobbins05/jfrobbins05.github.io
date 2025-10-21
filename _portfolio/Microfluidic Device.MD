@@ -11,10 +11,12 @@ gallery:
 ---
 
 # Introduction to Microfluidic Devices and Applications 
-Microfluidic devices are utilized to process small amounts of liquid (ex: 50 microliters) for medical applications. This processing can often take the form of mixing, sorting, or generating droplets with a microfluidic device and can be used for applications such as medical diagnostics, tissue engineering, pollution detection, or DNA sequencing. The device below is designed to sort particles based on size which can be applied to cells, viruses, sperm, blood components, fungal spores, metal particles, or 
+Microfluidic devices are utilized to process small amounts of liquid (ex: 50 microliters) for medical applications. This processing can often take the form of mixing, sorting, or generating droplets with a microfluidic device and can be used for applications such as medical diagnostics, tissue engineering, pollution detection, or DNA sequencing. The device below is designed to sort particles based on size which can be applied to cells, viruses, sperm, blood components, fungal spores, metal particles, or extracellular vesicles.
 
 # Introduction to PFF
 This device utilizes Pinch Flow Fractination (PFF) to successfully sort particles.  PFF relies on laminar flow within the device in which streams of liquid flow parallel to each other with minimal, slow mixing, only from diffusion. This type of flow is possible as surface tension overwhelms typical forces on liquids such as gravity and inertia due to the high surface to volume ratio within microfluidic devices. This capillary action maintains the adhesive forces between the liquid and sides of the device, aiding in laminar flow.
+
+PFF is superior to other filtering processes as it
 
 # PFF Sorting as a Mechanism for ____
 --
@@ -37,12 +39,15 @@ This application of PFF was designed with specifications in mind for particle si
 
 
 # Developing a Usable Device
-After being resin printed, molds undergo a multi-step process to be made into microfluidic devices. Instructions for said process are below:
-  1.	Create a resin printed 3D mold: Resin printing molds for microfluidic devices are significantly cheaper and more accessible than the lengthy and complex lithography alternative
-  2.	X
-  3.	X
-  4.	Coat the device in parylene: Monomers in the uncured resin can leach onto the printed device and affect crosslinking in the PDMS, leading to incomplete curing or loss of features
+After being resin printed, molds undergo a multi-step process to be made into microfluidic devices that maintain their structure and are not cytotoxic. Instructions for said process are as follows:
+  1.	Create a Resin Printed 3D Mold: Resin printing molds for microfluidic devices are significantly cheaper and more accessible than the lengthy and complex   lithography alternative.
+  2.	Post-Process the Mold: The mold must be washed in isopropyl alcohol and post-cured with UV light and heat in order to fully polymerize the resin and ensure that that the part has enough stability to continue the subsequent processes.
+  3.	Apply Parylene Coating: The mold must be coated in parylene-C utilizing vapor deposition techniques in order to provide a protective barrier during casting as leaching of monomers from resins can be cytotoxic to cells and cause material degradation.
+  4.	Cast the Device: Mix PDMS and pour it into the mold. Then plasma treat it allowing covalent bonds to form and the material to harden before removal.
+  5.	Seal the Device: The molded device is then sealed with a flat glass slide or another layer of PDMS on top to fully enclose the channels and prevent the device from leaking.
 
+  image: /assets/img/Plasma-Treating-Image (2)
+This image shows the plasma treating process.
 
 # Results and Reflection
 
