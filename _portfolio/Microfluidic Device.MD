@@ -10,7 +10,7 @@ gallery:
    
 ---
 
-# Introduction to Microfluidic Devices and Applications
+# Introduction to Microfluidic Devices and Applications 
 Microfluidic devices are utilized to process small amounts of liquid (ex: 50 microliters) for medical applications. This processing can often take the form of mixing, sorting, or generating droplets with a microfluidic device and can be used for applications such as medical diagnostics, tissue engineering, pollution detection, or DNA sequencing. The device below is designed to sort particles based on size which can be applied to cells, viruses, sperm, blood components, fungal spores, metal particles, or 
 
 # Introduction to PFF
@@ -45,9 +45,5 @@ After being resin printed, molds undergo a multi-step process to be made into mi
 
 
 # Results and Reflection
-* Manually rotate the lead screw to retract the plunger carriage. 
-* Insert either a 10 mL or 20 mL syringe into the designated holder. 
-* Ensure the syringe barrel is seated firmly in the cradle with the barrel flanges pressed up against the end support, and the plunger flange slotted into the carriage 
-* Secure the syringe and plunger using the mounting features. 
 
 # Citations
