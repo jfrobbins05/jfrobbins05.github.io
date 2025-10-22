@@ -46,7 +46,7 @@ After being resin printed, molds undergo a multi-step process to be made into mi
   4.	Cast the Device: Mix PDMS and pour it into the mold. Then plasma treat it allowing covalent bonds to form and the material to harden before removal.
   5.	Seal the Device: The molded device is then sealed with a flat glass slide or another layer of PDMS on top to fully enclose the channels and prevent the device from leaking.
 
-  image: /assets/img/Plasma-Treating-Image (2)
+  image: /assets/img/Plasma-Treating-Image (2).jpg
 This image shows the plasma treating process.
 
 # Results and Reflection
