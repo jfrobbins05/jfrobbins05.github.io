@@ -26,18 +26,18 @@ Once an application is determined, the geometry and details of a PFF microfluidi
 # Device Specifications and Dimensions
 This application of PFF was designed with specifications in mind for particle size, successful sorting, and prevention of unwanted mixing. These specifications are as follows:
   1.  Overall size: The size of the device, 50 mm by 75 mm, was chosen to align with the size of an extra wide microscope slide. This size represents the upper end of microfluidic devices while still requiring minimal liquid compared to other medical devices.
-  2.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on 
+  2.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on the necessary channel heights for these particular particle diameters. Channel heights were determined using the calculations below:
 -	Height calculations
   3.	Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:
 -	Resistance calculations
   4.	Channel Separation: Channels remained at least 1 mm apart to support the structure of the microfluidic device and not allow to make contact with each other
   5.	Channel buffer to wall: Channels were placed at least 3 mm from the edge of the mold so that the device has enough surface area to bond to the glass slide around the perimeter. This prevents leakage.
-  6.	Device Height: The height of the device (excluding inlets and outlets) is 2 mm to 
-  7.	Height of Ports:
+  6.	Device Height: The height of the device (excluding inlets and outlets) is 2 mm to allow sufficient space for the larger particle to move through the channel. This height signfiicantly exceeds the diameter of the larger particle to account for sagging in the device as its dimensions are relatively large for that of a microfluidic device.
+  7.	Height of Ports: The height of the ports is ____ and is designed to slightly exceed the height of the rest of the device. This allows tubing to be attached at both the inlets and outlets.
   8.	Inlet/Outlet Width and Spacing:
-  9.	Pinch Section:
-  10.	Broad Section:
-  11.	Filleting: Filleting was used along the channels to prevent the formation of bubbles which causes flow restriction 
+  9.	Pinch Section: The width of the pinch section is ____ and within the recommended range necessary for _____.
+  10.	Broad Section: The broad section is ____, exceeding the minimum of 15 mm necessary for the parallel flows of liquid to migrate upward and adhere to the side of the device so that they are flowing at their proper respective heights into each channel.
+  11.	Filleting: Filleting was used along the channels to prevent the formation of bubbles which causes flow restriction.
 
 
 # Developing a Usable Device
