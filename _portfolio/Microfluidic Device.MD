@@ -16,12 +16,14 @@ Microfluidic devices are utilized to process small amounts of liquid (ex: 50 mic
 # Introduction to PFF
 This device utilizes Pinch Flow Fractination (PFF) to successfully sort particles.  PFF relies on laminar flow within the device in which streams of liquid flow parallel to each other with minimal, slow mixing, only from diffusion. This type of flow is possible as surface tension overwhelms typical forces on liquids such as gravity and inertia due to the high surface to volume ratio within microfluidic devices. This capillary action maintains the adhesive forces between the liquid and sides of the device, aiding in laminar flow.
 
-PFF is superior to other filtering processes as it
+PFF is superior to other filtering processes as it can be utilized for a wide variety of applications and further customized for certain specifications. One unique feature of PFF is its ability to sort droplets, a task that is particularly difficult with other common sorting techniques such as filtration or centrifugation. In a similar respect, PFF has a unique ability to sort extremely small particles or particles with minimal size differences, especially when AsPFF, a ______, is applied. In general, PFF benefits from the fact that the number of particles present in the fluid has no bearing on separation efficiency.
+
+Once an application is determined, the geometry and details of a PFF microfluidic device can be altered for more customization than in other methodologies. For example, the flow rates at inlet branches can be adjusted for different particle size limits and necessary resistance prior to outlets can be adjusted with channel length. More specifically, the sedimentation effect can added with PFF to enhance the precision of sorting based on size or density and the shape of the pinch-to-broad transition can be adjusted to also enhance fractionation quality. Finally, tunable PFF utilizes a PDMS membrane valve connected to the out lets to independently control their flow rates and enhance separation accuracy.
 
 # PFF Sorting as a Mechanism for ____
 --
 
-# PFF Specifications and Dimensions
+# Device Specifications and Dimensions
 This application of PFF was designed with specifications in mind for particle size, successful sorting, and prevention of unwanted mixing. These specifications are as follows:
   1.  Overall size: The size of the device, 50 mm by 75 mm, was chosen to align with the size of an extra wide microscope slide. This size represents the upper end of microfluidic devices while still requiring minimal liquid compared to other medical devices.
   2.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on 
@@ -52,3 +54,16 @@ This image shows the plasma treating process.
 # Results and Reflection
 
 # Citations
+Ashrafizadeh, S.N., Zare, M., Khatibi, M. A comprehensive review of pinch flow fractionation 
+  in microfluidics: From principles to practical applications. Chem. Eng. Process. - Process 
+  Intensif. 208, 110087 (2025). https://doi.org/10.1016/j.cep.2024.110087.
+
+Florian, D. C., Intro to uFluidic Devices, Department of Engineering, Vanderbilt University, 2025.
+
+O’Grady B. J., Geuy M. D., Kim H., Balotin K. M., Allchin E. R., Florian D. C., Bute N. N., 
+  Scott T. E., Lowen G. B., Fricker C. M., Fitzgerald M. L., Guelcher S. A., Wikswo J. P., 
+  Bellan L. M. & Lippmann E. S. Rapid prototyping of cell culture microdevices using parylene-
+  coated 3D prints. Lab Chip 21, 4814–4822 (2021). https://doi.org/10.1039/D1LC00744K.
+
+Sajeesh, P., Sen, A.K. Particle separation and sorting in microfluidic devices: a review. 
+  Microfluid Nanofluid 17, 1–52 (2014). https://doi.org/10.1007/s10404-013-1291-9.
