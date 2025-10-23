@@ -33,10 +33,10 @@ This application of PFF was designed with specifications in mind for particle si
   4.	Channel Separation: Channels remained at least 1 mm apart to support the structure of the microfluidic device and not allow to make contact with each other
   5.	Channel buffer to wall: Channels were placed at least 3 mm from the edge of the mold so that the device has enough surface area to bond to the glass slide around the perimeter. This prevents leakage.
   6.	Device Height: The height of the device (excluding inlets and outlets) is 2 mm to allow sufficient space for the larger particle to move through the channel. This height signfiicantly exceeds the diameter of the larger particle to account for sagging in the device as its dimensions are relatively large for that of a microfluidic device.
-  7.	Height of Ports: The height of the ports is ____ and is designed to slightly exceed the height of the rest of the device. This allows tubing to be attached at both the inlets and outlets.
-  8.	Inlet/Outlet Width and Spacing:
-  9.	Pinch Section: The width of the pinch section is ____ and within the recommended range necessary for _____.
-  10.	Broad Section: The broad section is ____, exceeding the minimum of 15 mm necessary for the parallel flows of liquid to migrate upward and adhere to the side of the device so that they are flowing at their proper respective heights into each channel.
+  7.	Height of Ports: The height of the ports is 7 mm and is designed to slightly exceed the height of the mold frame. This allows tubing to be attached at both the inlets and outlets.
+  8.	Inlet/Outlet Diameter and Spacing: Each inlet and outlet has a diameter of 2.2 mm to allow the tubing to be inserted into the device. The inlets and oulets also well exceed the 11 mm minimum necessary to fit multiple tubes next to each other during testing.
+  9.	Pinch Section: The width of the pinch section is ~8.5 mm and within the recommended range of 6-10 mm necessary for _____.
+  10.	Broad Section: The broad section is ~20 mm, exceeding the minimum of 15 mm necessary for the parallel flows of liquid to migrate upward and adhere to the side of the device so that they are flowing at their proper respective heights into each channel.
   11.	Filleting: Filleting was used along the channels to prevent the formation of bubbles which causes flow restriction.
 
 
