@@ -41,6 +41,9 @@ This application of PFF was designed with specifications in mind for particle si
 
 
 # Developing a Usable Device
+![Device Mold Image](/assets/img/device_mold.jpg)
+This image shows the resin-printed microfluidic device mold.
+
 After being resin printed, molds undergo a multi-step process to be made into microfluidic devices that maintain their structure and are not cytotoxic. Instructions for said process are as follows:
   1.	Create a Resin Printed 3D Mold: Resin printing molds for microfluidic devices are significantly cheaper and more accessible than the lengthy and complex   lithography alternative.
   2.	Post-Process the Mold: The mold must be washed in isopropyl alcohol and post-cured with UV light and heat in order to fully polymerize the resin and ensure that that the part has enough stability to continue the subsequent processes.
@@ -48,10 +51,17 @@ After being resin printed, molds undergo a multi-step process to be made into mi
   4.	Cast the Device: Mix PDMS and pour it into the mold. Then plasma treat it allowing covalent bonds to form and the material to harden before removal.
   5.	Seal the Device: The molded device is then sealed with a flat glass slide or another layer of PDMS on top to fully enclose the channels and prevent the device from leaking.
 
+![Final Device Image](/assets/img/microfluidic_device.jpg)
+This image shows the casted final microfluidic device.
+
 ![Plasma Treating Image](/assets/img/Plasma-Treating-Image-2.jpg)
 This image shows the plasma treating process.
 
 # Results and Reflection
+
+![Plasma Treating Image](/assets/img/device_setup.jpg)
+
+![Plasma Treating Image](/assets/img/device_setup_upclose.pg)
 
 # Citations
 Ashrafizadeh, S.N., Zare, M., Khatibi, M. A comprehensive review of pinch flow fractionation 
