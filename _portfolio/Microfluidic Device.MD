@@ -2,11 +2,11 @@
 title: "Microfluidic Device"
 excerpt: "Medical device designed with thin channels to sort ______ for _________"
 header:
-  image: /assets/img/FullSizeRender.jpg
-  teaser: /assets/img/FullSizeRender.jpg
+  image: /assets/img/microfluidic_device.jpg
+  teaser: /assets/img/microfluidic_device.jpg
 gallery:
-  - image_path: assets/img/IMG_5202.jpg
-  - image_path: assets/img/Syring Pump Rendering.png
+  - image_path: assets/img/microfluidic_device.jpg
+  - image_path: assets/img/microfluidic_device.jpg
    
 ---
 
