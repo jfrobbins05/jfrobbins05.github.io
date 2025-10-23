@@ -48,14 +48,15 @@ After being resin printed, molds undergo a multi-step process to be made into mi
   1.	Create a Resin Printed 3D Mold: Resin printing molds for microfluidic devices are significantly cheaper and more accessible than the lengthy and complex   lithography alternative.
   2.	Post-Process the Mold: The mold must be washed in isopropyl alcohol and post-cured with UV light and heat in order to fully polymerize the resin and ensure that that the part has enough stability to continue the subsequent processes.
   3.	Apply Parylene Coating: The mold must be coated in parylene-C utilizing vapor deposition techniques in order to provide a protective barrier during casting as leaching of monomers from resins can be cytotoxic to cells and cause material degradation.
+
+![Plasma Treating Image](/assets/img/Plasma-Treating-Image-2.jpg)
+This image shows the plasma treating process.
+
   4.	Cast the Device: Mix PDMS and pour it into the mold. Then plasma treat it allowing covalent bonds to form and the material to harden before removal.
   5.	Seal the Device: The molded device is then sealed with a flat glass slide or another layer of PDMS on top to fully enclose the channels and prevent the device from leaking.
 
 ![Final Device Image](/assets/img/microfluidic_device.jpg)
 This image shows the casted final microfluidic device.
-
-![Plasma Treating Image](/assets/img/Plasma-Treating-Image-2.jpg)
-This image shows the plasma treating process.
 
 # Results and Reflection
 
