@@ -39,6 +39,7 @@ This application of PFF was designed with specifications in mind for particle si
   10.	Broad Section: The broad section is ~20 mm, exceeding the minimum of 15 mm necessary for the parallel flows of liquid to migrate upward and adhere to the side of the device so that they are flowing at their proper respective heights into each channel.
   11.	Filleting: Filleting was used along the channels to prevent the formation of bubbles which causes flow restriction.
 
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115319aead2672a0d7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Developing a Usable Device
 ![Device Mold Image](/assets/img/device_mold.jpg)
