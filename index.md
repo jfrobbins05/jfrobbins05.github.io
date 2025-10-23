@@ -18,11 +18,10 @@ feature_row:
     alt: "Phone Case"
     title: "Polaroid iPhone 13 Phone Case"
     excerpt: "A protective, fitted case with a stylish twist!"
--   image_path: assets/img/microfluidic_device.jpg
+  - image_path: assets/img/microfluidic_device.jpg
     alt: "Microfluidic Device"
     title: "Resin Print Molded Microfluidic Device"
     excerpt: "3D printing applied to this precise sorting medical device"
 ---
-
 {% include feature_row %}
 
