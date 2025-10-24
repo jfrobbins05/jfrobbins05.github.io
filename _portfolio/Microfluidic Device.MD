@@ -10,8 +10,11 @@ gallery:
    
 ---
 
+
 # Introduction to Microfluidic Devices and Applications 
 Microfluidic devices are utilized to process small amounts of liquid (ex: 50 microliters) for medical applications. This processing can often take the form of mixing, sorting, or generating droplets with a microfluidic device and can be used for applications such as medical diagnostics, tissue engineering, pollution detection, or DNA sequencing. The device below is designed to sort particles based on size which can be applied to cells, viruses, sperm, blood components, fungal spores, metal particles, or extracellular vesicles.
+
+
 
 # Introduction to PFF
 This device utilizes Pinch Flow Fractination (PFF) to successfully sort particles.  PFF relies on laminar flow within the device in which streams of liquid flow parallel to each other with minimal, slow mixing, only from diffusion. This type of flow is possible as surface tension overwhelms typical forces on liquids such as gravity and inertia due to the high surface to volume ratio within microfluidic devices. This capillary action maintains the adhesive forces between the liquid and sides of the device, aiding in laminar flow.
@@ -20,8 +23,12 @@ PFF is superior to other filtering processes as it can be utilized for a wide va
 
 Once an application is determined, the geometry and details of a PFF microfluidic device can be altered for more customization than in other methodologies. For example, the flow rates at inlet branches can be adjusted for different particle size limits and necessary resistance prior to outlets can be adjusted with channel length. More specifically, the sedimentation effect can added with PFF to enhance the precision of sorting based on size or density and the shape of the pinch-to-broad transition can be adjusted to also enhance fractionation quality. Finally, tunable PFF utilizes a PDMS membrane valve connected to the out lets to independently control their flow rates and enhance separation accuracy.
 
+
+
 # PFF Sorting as a Mechanism for ____
 --
+
+
 
 # Device Specifications and Dimensions
 
@@ -44,6 +51,8 @@ This application of PFF was designed with specifications in mind for particle si
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115319aead2672a0d7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
+
 # Developing a Usable Device
 ![Device Mold Image](/assets/img/device_mold.jpg)
 This image shows the resin-printed microfluidic device mold.
@@ -52,15 +61,16 @@ After being resin printed, molds undergo a multi-step process to be made into mi
   1.	Create a Resin Printed 3D Mold: Resin printing molds for microfluidic devices are significantly cheaper and more accessible than the lengthy and complex   lithography alternative.
   2.	Post-Process the Mold: The mold must be washed in isopropyl alcohol and post-cured with UV light and heat in order to fully polymerize the resin and ensure that that the part has enough stability to continue the subsequent processes.
   3.	Apply Parylene Coating: The mold must be coated in parylene-C utilizing vapor deposition techniques in order to provide a protective barrier during casting as leaching of monomers from resins can be cytotoxic to cells and cause material degradation.
+  4.	Cast the Device: Mix PDMS and pour it into the mold. Then plasma treat it allowing covalent bonds to form and the material to harden before removal.
+  5.	Seal the Device: The molded device is then sealed with a flat glass slide or another layer of PDMS on top to fully enclose the channels and prevent the device from leaking.
 
 ![Plasma Treating Image](/assets/img/Plasma-Treating-Image-2.jpg)
 This image shows the plasma treating process.
 
-  4.	Cast the Device: Mix PDMS and pour it into the mold. Then plasma treat it allowing covalent bonds to form and the material to harden before removal.
-  5.	Seal the Device: The molded device is then sealed with a flat glass slide or another layer of PDMS on top to fully enclose the channels and prevent the device from leaking.
-
 ![Final Device Image](/assets/img/microfluidic_device.jpg)
 This image shows the casted final microfluidic device.
+
+
 
 # Results and Reflection
 Testing did not result in successful sorting of small and large particles for several reasons. Tubes were connected to the inlets with a syringe on the opposite end while tubes connected to the outlets remained unconnected on the other end. As liquid was pumped into the device to prime it, significant bubbles formed, necessitating their removal through squeezing and tilting the device and pinching the outlet tubes. Once bubbles were removed, liquid containing the small and large particles was pumped into the device. While small particles successfully migrated to the top of the device and flowed down their respective channel, large particles appeared much more susceptible to resistance changes. Although the channels within the device were designed precisely to provide the correct resistance for flow rates through the 3 channels to be equal, small adjustments in the heights of the oulet tubes being held by hand caused significant resistance and drastic changes in flow rates. Due to this, the consistency of the large particle movement was weak and dependent on a steady hand.
@@ -70,6 +80,8 @@ The execution of testing for this device could be improved in several ways.
 ![Plasma Treating Image](/assets/img/device_setup.jpg)
 
 ![Plasma Treating Image](/assets/img/device_setup_upclose.pg)
+
+
 
 # Citations
 Ashrafizadeh, S.N., Zare, M., Khatibi, M. A comprehensive review of pinch flow fractionation 
