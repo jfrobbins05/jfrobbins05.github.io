@@ -77,9 +77,9 @@ Testing did not result in successful sorting of small and large particles for se
 
 The execution of testing for this device could be improved in several ways.
 
-![Plasma Treating Image](/assets/img/device_setup.jpg)
+![Device Set Up Image](/assets/img/device_setup.jpg)
 
-![Plasma Treating Image](/assets/img/device_setup_upclose.pg)
+![Device Set Up Up-Close Image](/assets/img/device_setup_upclose.jpg)
 
 
 
