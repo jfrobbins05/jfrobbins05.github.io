@@ -25,7 +25,7 @@ Once an application is determined, the geometry and details of a PFF microfluidi
 
 # Device Specifications and Dimensions
 
-![Device Mold Drawing](/assets/img/IMG_6415.jpg)
+![Device Mold Drawing](/assets/img/IMG_6417.jpg)
 
 This application of PFF was designed with specifications in mind for particle size, successful sorting, and prevention of unwanted mixing. These specifications are as follows:
   1.  Overall size: The size of the device, 50 mm by 75 mm, was chosen to align with the size of an extra wide microscope slide. This size represents the upper end of microfluidic devices while still requiring minimal liquid compared to other medical devices.
@@ -63,6 +63,9 @@ This image shows the plasma treating process.
 This image shows the casted final microfluidic device.
 
 # Results and Reflection
+Testing did not result in successful sorting of small and large particles for several reasons. Tubes were connected to the inlets with a syringe on the opposite end while tubes connected to the outlets remained unconnected on the other end. As liquid was pumped into the device to prime it, significant bubbles formed, necessitating their removal through squeezing and tilting the device and pinching the outlet tubes. Once bubbles were removed, liquid containing the small and large particles was pumped into the device. While small particles successfully migrated to the top of the device and flowed down their respective channel, large particles appeared much more susceptible to resistance changes. Although the channels within the device were designed precisely to provide the correct resistance for flow rates through the 3 channels to be equal, small adjustments in the heights of the oulet tubes being held by hand caused significant resistance and drastic changes in flow rates. Due to this, the consistency of the large particle movement was weak and dependent on a steady hand.
+
+The execution of testing for this device could be improved in several ways.
 
 ![Plasma Treating Image](/assets/img/device_setup.jpg)
 
