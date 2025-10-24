@@ -39,7 +39,56 @@ This application of PFF was designed with specifications in mind for particle si
  2.	Pinch Section: The length of the pinch section is ~8.5 mm and within the recommended range of 6-10 mm necessary for creating an appropriate pressure drop as the particles enter the broad region of the device. The width of the pinched section was determined in relation with other factors to create realistic channel heights.
  3.	Broad Section: The broad section is ~20 mm long, exceeding the minimum of 15 mm necessary for the parallel flows of liquid to migrate upward and adhere to the side of the device so that they are flowing at their proper respective heights into each channel. The width of the broad section was determined in relation with other factors to create realistic channel heights.
   4.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on the necessary channel heights for these particular particle diameters. Channel heights were determined using the calculations below:
--	Height calculations
+
+
+## Unit Conversions
+
+Convert particle diameters from micrometers to millimeters:
+
+$$
+140\ \mu m = \frac{140}{1000} = 0.14\ mm
+$$
+
+$$
+450\ \mu m = \frac{450}{1000} = 0.45\ mm
+$$
+
+---
+
+## Outlet Position Calculations
+
+### Smaller Particle
+
+Equation:
+
+$$
+y_o = \left(w_p - \frac{D}{2}\right)\frac{w_b}{w_p}
+$$
+
+Substitute values:
+
+$$
+y_o = \left(1\ mm - \frac{0.14\ mm}{2}\right)\left(\frac{42\ mm}{1\ mm}\right) = 39.06\ mm
+$$
+
+---
+
+### Larger Particle
+
+Equation:
+
+$$
+y_o = \left(w_p - \frac{D}{2}\right)\frac{w_b}{w_p}
+$$
+
+Substitute values:
+
+$$
+y_o = \left(1\ mm - \frac{0.45\ mm}{2}\right)\left(\frac{42\ mm}{1\ mm}\right) = 32.55\ mm
+$$
+
+---
+
   5.	Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:
 -	Resistance calculations
   6.	Channel Separation: Channels remained at least 1 mm apart to support the structure of the microfluidic device and not allow to make contact with each other
