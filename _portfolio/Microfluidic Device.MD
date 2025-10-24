@@ -41,17 +41,14 @@ This application of PFF was designed with specifications in mind for particle si
   4.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on the necessary channel heights for these particular particle diameters. Channel heights were determined using the calculations below:
 
 
+
 ## Unit Conversions
 
 Convert particle diameters from micrometers to millimeters:
 
-$$
-140\ \mu m = \frac{140}{1000} = 0.14\ mm
-$$
+![](https://latex.codecogs.com/svg.image?140\ \mu m=\frac{140}{1000}=0.14\ mm)
 
-$$
-450\ \mu m = \frac{450}{1000} = 0.45\ mm
-$$
+![](https://latex.codecogs.com/svg.image?450\ \mu m=\frac{450}{1000}=0.45\ mm)
 
 ---
 
@@ -59,36 +56,17 @@ $$
 
 ### Smaller Particle
 
-Equation:
+![](https://latex.codecogs.com/svg.image?y_o=\left(w_p-\frac{D}{2}\right)\frac{w_b}{w_p})
 
-$$
-y_o = \left(w_p - \frac{D}{2}\right)\frac{w_b}{w_p}
-$$
-
-Substitute values:
-
-$$
-y_o = \left(1\ mm - \frac{0.14\ mm}{2}\right)\left(\frac{42\ mm}{1\ mm}\right) = 39.06\ mm
-$$
+![](https://latex.codecogs.com/svg.image?y_o=\left(1\ mm-\frac{0.14\ mm}{2}\right)\left(\frac{42\ mm}{1\ mm}\right)=39.06\ mm)
 
 ---
 
 ### Larger Particle
 
-Equation:
+![](https://latex.codecogs.com/svg.image?y_o=\left(w_p-\frac{D}{2}\right)\frac{w_b}{w_p})
 
-$$
-y_o = \left(w_p - \frac{D}{2}\right)\frac{w_b}{w_p}
-$$
-
-Substitute values:
-
-$$
-y_o = \left(1\ mm - \frac{0.45\ mm}{2}\right)\left(\frac{42\ mm}{1\ mm}\right) = 32.55\ mm
-$$
-
----
-
+![](https://latex.codecogs.com/svg.image?y_o=\left(1\ mm-\frac{0.45\ mm}{2}\right)\left(\frac{42\ mm}{1\ mm}\right)=32.55\ mm)
   5.	Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:
 -	Resistance calculations
   6.	Channel Separation: Channels remained at least 1 mm apart to support the structure of the microfluidic device and not allow to make contact with each other
