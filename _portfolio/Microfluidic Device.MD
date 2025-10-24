@@ -24,6 +24,9 @@ Once an application is determined, the geometry and details of a PFF microfluidi
 --
 
 # Device Specifications and Dimensions
+
+![Device Mold Drawing](/assets/img/IMG_6415.jpg)
+
 This application of PFF was designed with specifications in mind for particle size, successful sorting, and prevention of unwanted mixing. These specifications are as follows:
   1.  Overall size: The size of the device, 50 mm by 75 mm, was chosen to align with the size of an extra wide microscope slide. This size represents the upper end of microfluidic devices while still requiring minimal liquid compared to other medical devices.
   2.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on the necessary channel heights for these particular particle diameters. Channel heights were determined using the calculations below:
