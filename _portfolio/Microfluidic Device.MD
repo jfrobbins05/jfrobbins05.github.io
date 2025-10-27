@@ -73,7 +73,7 @@ Since these calculations provide the height of the particle center, additional s
 
 <ol start="5">
   <li>Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:</li>
-
+</ol>
 
 ### Hydraulic Resistance Equation
 
