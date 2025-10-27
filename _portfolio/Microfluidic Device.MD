@@ -69,7 +69,9 @@ Convert particle diameters from micrometers to millimeters:
 
 Since these calculations provide the height of the particle center, additional space was factored in for particle radius. The significant difference between the necessary heights allowed for even larger channel entry points than these minimums, providing room for variation.
 
-  5.	Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:
+
+<ol start="5">
+  <li> 5.	Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:
 
 
 ### Hydraulic Resistance Equation
@@ -91,16 +93,23 @@ All other factors will remain constant within the device, giving an inverse rela
 (based on channel height calculations)
 
 ![](https://latex.codecogs.com/svg.image?L_3=15.351\times\frac{31}{7.6}=62.7\text{ mm})
+</li>
 
+<ol start="6">
+  <li>	Channel Separation: Channels remained at least 1 mm apart to support the structure of the microfluidic device and not allow to make contact with each other</li>
+  <li>Device Height: The height of the device (excluding inlets and outlets) is 2 mm to allow sufficient space for the larger particle to move through the channel. This height signfiicantly exceeds the diameter of the larger particle to account for sagging in the device as its dimensions are relatively large for that of a microfluidic device.</li>
+  <li>Channel buffer to wall: Channels were placed at least 3 mm from the edge of the mold so that the device has enough surface area to bond to the glass slide around the perimeter. This prevents leakage.</li>
+  <li>Height of Ports: The height of the ports is 7 mm and is designed to slightly exceed the height of the mold frame. This allows tubing to be attached at both the inlets and outlets.</li>
+  <li>Inlet/Outlet Diameter and Spacing: Each inlet and outlet has a diameter of 2.2 mm to allow the tubing to be inserted into the device. The inlets and oulets also well exceed the 11 mm minimum necessary to fit multiple tubes next to each other during testing.</li>
+  <li>Filleting: Filleting was used along the channels to prevent the formation of bubbles which causes flow restriction.</li>
+</ol>
 
-  6.	Channel Separation: Channels remained at least 1 mm apart to support the structure of the microfluidic device and not allow to make contact with each other
-  7.	Channel buffer to wall: Channels were placed at least 3 mm from the edge of the mold so that the device has enough surface area to bond to the glass slide around the perimeter. This prevents leakage.
-  8.	Device Height: The height of the device (excluding inlets and outlets) is 2 mm to allow sufficient space for the larger particle to move through the channel. This height signfiicantly exceeds the diameter of the larger particle to account for sagging in the device as its dimensions are relatively large for that of a microfluidic device.
-  9.	Height of Ports: The height of the ports is 7 mm and is designed to slightly exceed the height of the mold frame. This allows tubing to be attached at both the inlets and outlets.
-  10.	Inlet/Outlet Diameter and Spacing: Each inlet and outlet has a diameter of 2.2 mm to allow the tubing to be inserted into the device. The inlets and oulets also well exceed the 11 mm minimum necessary to fit multiple tubes next to each other during testing.
-  11.	Filleting: Filleting was used along the channels to prevent the formation of bubbles which causes flow restriction.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115319aead2672a0d7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+
+
 
 
 
