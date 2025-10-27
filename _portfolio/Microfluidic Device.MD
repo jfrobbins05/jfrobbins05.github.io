@@ -38,8 +38,7 @@ This application of PFF was designed with specifications in mind for particle si
   1.  Overall size: The size of the device, 50 mm by 75 mm, was chosen to align with the size of an extra wide microscope slide. This size represents the upper end of microfluidic devices while still requiring minimal liquid compared to other medical devices.
  2.	Pinch Section: The length of the pinch section is ~8.5 mm and within the recommended range of 6-10 mm necessary for creating an appropriate pressure drop as the particles enter the broad region of the device. The width of the pinched section was determined in relation with other factors to create realistic channel heights.
  3.	Broad Section: The broad section is ~20 mm long, exceeding the minimum of 15 mm necessary for the parallel flows of liquid to migrate upward and adhere to the side of the device so that they are flowing at their proper respective heights into each channel. The width of the broad section was determined in relation with other factors to create realistic channel heights.
-  4.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on the necessary channel heights for these particular particle diameters. Channel heights were determined using the calculations below:
-
+  4.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on the necessary channel heights for these particular particle diameters. Channel heights were determined using the equations below with particle diameters in the ranges stated above:
 
 
 ## Unit Conversions
@@ -67,8 +66,26 @@ Convert particle diameters from micrometers to millimeters:
 ![](https://latex.codecogs.com/svg.image?y_o=\left(w_p-\frac{D}{2}\right)\frac{w_b}{w_p})
 
 ![](https://latex.codecogs.com/svg.image?y_o=\left(1\ mm-\frac{0.45\ mm}{2}\right)\left(\frac{42\ mm}{1\ mm}\right)=32.55\ mm)
+
+Since these calculations provide the height of the particle center, additional space was factored in for particle radius. The significant difference between the necessary heights allowed for even larger channel entry points than these minimums, providing room for variation.
+
   5.	Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:
--	Resistance calculations
+
+![](https://latex.codecogs.com/svg.image?R=\frac{12\mu L}{w,h^3})
+
+![](https://latex.codecogs.com/svg.image?w_1=31\text{ mm},\quad L_1=15.351\text{ mm})
+
+For 
+𝑤 = 3.3
+
+![](https://latex.codecogs.com/svg.image?L_2=15.351\times\frac{31}{3.3}=144.2\text{ mm})
+
+For 
+𝑤 = 7.6
+
+![](https://latex.codecogs.com/svg.image?L_3=15.351\times\frac{31}{7.6}=62.7\text{ mm})
+
+
   6.	Channel Separation: Channels remained at least 1 mm apart to support the structure of the microfluidic device and not allow to make contact with each other
   7.	Channel buffer to wall: Channels were placed at least 3 mm from the edge of the mold so that the device has enough surface area to bond to the glass slide around the perimeter. This prevents leakage.
   8.	Device Height: The height of the device (excluding inlets and outlets) is 2 mm to allow sufficient space for the larger particle to move through the channel. This height signfiicantly exceeds the diameter of the larger particle to account for sagging in the device as its dimensions are relatively large for that of a microfluidic device.
@@ -99,14 +116,19 @@ This image shows the casted final microfluidic device.
 
 
 
-# Results and Reflection
+# Results and Looking to the Future of this Project
 Testing did not result in successful sorting of small and large particles for several reasons. Tubes were connected to the inlets with a syringe on the opposite end while tubes connected to the outlets remained unconnected on the other end. As liquid was pumped into the device to prime it, significant bubbles formed, necessitating their removal through squeezing and tilting the device and pinching the outlet tubes. Once bubbles were removed, liquid containing the small and large particles was pumped into the device. While small particles successfully migrated to the top of the device and flowed down their respective channel, large particles appeared much more susceptible to resistance changes. Although the channels within the device were designed precisely to provide the correct resistance for flow rates through the 3 channels to be equal, small adjustments in the heights of the oulet tubes being held by hand caused significant resistance and drastic changes in flow rates. Due to this, the consistency of the large particle movement was weak and dependent on a steady hand.
 
-The execution of testing for this device could be improved in several ways.
 
 ![Device Set Up Image](/assets/img/device_setup.jpg)
 
 ![Device Set Up Up-Close Image](/assets/img/device_setup_upclose.jpg)
+
+
+
+Based on these testing results, significant improvements can be made to account for resistance differences caused by external factors. A promising solution partially attempted by one student this semester was horizontal outlets for the device. However, this design can be improved upon. This semester, the horizontal outlets were incorporated on multiple sides of the device, eliminating flow differences due to tube height, but creating new variables such as the levelling the surface on which the device was placed. My proposed solution for these persistent flow rate issues is continuing the use of horizontal outlets, but limiting their use to one side of the device. By putting this constraint on the devices geometry, small errors in the level of the surface will affect outlets equally. Any small errors in the level of the surface in the direction perpendicular to the flow of the outlets would not affect this device design any more or less than that of a design with vertical outlets. Since this was not the primary issue with vertical outlets, and successful sorting has been performed with vertical outlets in the past when tubes were precisely positioned, the perpendicular angle of the device does not seem to bear a significant impact on flow rates.
+
+Looking toward other future applications of these devices, it may be necessary that a device is capable of handling a wider range of particle sizes. Although there is potential to modify the device for this, there are also some limitations. If particle sizes varied minimally, it may be possible that channel heights could be maintained since they are designed with some room for variation. If the variation was more substantial, more channels could be added to account for more than 2 particle sizes. In this instance, not all channels would necessarily need to be used at once depending on the application. However, there is a limit to overall particle size that can be utilized in a microfluidic device due to its fluid dynamics. Microfluidic devices rely on surface adhesion of the liquid to the glass overcoming certain other factors such as gravity. If particle sizes necessitated channels too large, they make contian too much liquid for the principles of a microfluidic device to be maintained.
 
 
 
