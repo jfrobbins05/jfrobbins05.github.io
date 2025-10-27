@@ -71,7 +71,7 @@ Since these calculations provide the height of the particle center, additional s
 
 
 <ol start="5">
-  <li> 5.	Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:
+  <li>Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:</li>
 
 
 ### Hydraulic Resistance Equation
@@ -93,7 +93,6 @@ All other factors will remain constant within the device, giving an inverse rela
 (based on channel height calculations)
 
 ![](https://latex.codecogs.com/svg.image?L_3=15.351\times\frac{31}{7.6}=62.7\text{ mm})
-</li>
 
 <ol start="6">
   <li>	Channel Separation: Channels remained at least 1 mm apart to support the structure of the microfluidic device and not allow to make contact with each other</li>
