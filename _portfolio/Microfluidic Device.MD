@@ -34,12 +34,13 @@ An important application of size-based particle sorting that this device will be
 # Device Specifications and Dimensions
 
 ![Device Mold Drawing](/assets/img/IMG_6418.jpg)
+Figure 1: Device mold important dimensions diagram.
 
-This application of PFF was designed with specifications in mind for particle size, successful sorting, and prevention of unwanted mixing. These specifications are as follows:
-  1.  Overall size: The size of the device, 50 mm by 75 mm, was chosen to align with the size of an extra wide microscope slide. This size represents the upper end of microfluidic devices while still requiring minimal liquid. Device size ws increased from the prior semester to hopefully aid in successful sorting.
+This application of PFF was designed with specifications in mind for particle size, successful sorting, and prevention of unwanted mixing. Some of these specifications are shown in Figure 1 and are as follows:
+  1.  Overall size: The size of the device, 50 mm by 75 mm, was chosen to align with the size of an extra wide microscope slide. This size represents the upper end of microfluidic devices while still requiring minimal liquid. Device size was increased from the prior semester to hopefully aid in successful sorting.
   2.	Pinch Section: The length of the pinch section is ~8.5 mm and within the recommended range of 6-10 mm necessary for creating an appropriate pressure drop as the particles enter the broad region of the device.
   3.	Broad Section: The broad section is ~20 mm long, exceeding the minimum of 15 mm necessary for the parallel flows of liquid to migrate upward and adhere to the side of the device, allowing them to flow at their respective heights into each channel.
-  4. Device Height: The height of the device (excluding inlets and outlets) is 2 mm to allow sufficient space for the larger particle to move through the channel. This height signfiicantly exceeds the diameter of the larger particle to account for sagging in the device as its dimensions are relatively large for that of a microfluidic device.
+  4. Device Height: The height of the device (excluding inlets and outlets) is 2 mm to allow sufficient space for the larger particle to move through the channel. This height significantly exceeds the diameter of the larger particle to account for sagging in the device as its dimensions are relatively large for that of a microfluidic device.
   5. Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on the necessary channel heights for the particular particle diameters listed in the above section. Channel heights were determined using the equations below:
 
 
@@ -115,31 +116,35 @@ All other factors will remain constant within the device, giving an inverse rela
 
 # Developing a Usable Device
 ![Device Mold Image](/assets/img/device_mold.jpg)
-This image shows the resin-printed microfluidic device mold.
+Figure 2: Resin-printed microfluidic device mold.
+
 
 After being resin printed, molds undergo a multi-step process to be made into microfluidic devices that maintain their structure and are not cytotoxic. Instructions for said process are as follows:
-  1.	Create a Resin Printed 3D Mold: Resin printing molds for microfluidic devices is significantly cheaper and more accessible than the lengthy and complex   lithography alternative.
+  1.	Create a Resin Printed 3D Mold: Resin printing molds for microfluidic devices is significantly cheaper and more accessible than the lengthy and complex   lithography alternative (such as the example in Figure 2).
   2.	Post-Process the Mold: The mold must be washed in isopropyl alcohol and post-cured with UV light and heat in order to fully polymerize the resin and ensure that that the part has enough stability to continue the subsequent processes.
   3.	Apply Parylene Coating: The mold must be coated in parylene-C utilizing vapor deposition techniques in order to provide a protective barrier during casting as leaching of monomers from resins can be cytotoxic to cells and cause material degradation.
-  4.	Cast the Device: PDMS is mixed and poured into the mold. It is then plasma treated, allowing covalent bonds to form and the material to harden before removal.
+  4.	Cast the Device: PDMS is mixed and poured into the mold. It is then plasma treated (as seen in Figure 3), allowing covalent bonds to form and the material to harden before removal.
   5.	Seal the Device: The molded device is then sealed with a flat glass slide or another layer of PDMS on top to fully enclose the channels and prevent the device from leaking.
 
+
 ![Plasma Treating Image](/assets/img/Plasma-Treating-Image-2.jpg)
-This image shows the plasma treating process.
+Figure 3: Plasma treating process
+
 
 ![Final Device Image](/assets/img/microfluidic_device.jpg)
-This image shows the casted final microfluidic device.
+Figure 4: Final microfluidic device
 
 
 
 # Results and Looking to the Future of this Project
-Testing did not result in successful sorting of small and large particles for several reasons. For testing, tubing was connected to the inlets creating a path from the syringe on the opposite end. Tubing connected to the oulets remained unconnected on the other end. As liquid was pumped into the device to prime it, significant bubbles formed, necessitating their removal through squeezing and tilting the device as well as pinching the outlet tubes. Once bubbles were removed, liquid containing the small and large particles was pumped into the device. While small particles successfully migrated to the top of the device and flowed down their respective channel, large particles appeared much more susceptible to resistance changes. Although the channels within the device were designed precisely to provide the correct flow rates, the oulet tubing was held by hand and small variations in tubing height due to this imprecision caused drastic differences in resistance between the tubes. Due to this, the consistency of the large particle movement was weak and extremely dependent on a steady hand and careful positioning.
+Testing did not result in successful sorting of small and large particles for several reasons. For testing (as seen in Figure 5 and 6), tubing was connected to the inlets creating a path from the syringe on the opposite end. Tubing connected to the oulets remained unconnected on the other end. As liquid was pumped into the device to prime it, significant bubbles formed, necessitating their removal through squeezing and tilting the device as well as pinching the outlet tubes. Once bubbles were removed, liquid containing the small and large particles was pumped into the device. While small particles successfully migrated to the top of the device and flowed down their respective channel, large particles appeared much more susceptible to resistance changes. Although the channels within the device were designed precisely to provide the correct flow rates, the oulet tubing was held by hand and small variations in tubing height due to this imprecision caused drastic differences in resistance between the tubes. Due to this, the consistency of the large particle movement was weak and extremely dependent on a steady hand and careful positioning.
 
 
 ![Device Set Up Image](/assets/img/device_setup.jpg)
+Figure 5: Testing setup with microfluidic device, syringe pump, tubing, microscope camera
 
 ![Device Set Up Up-Close Image](/assets/img/device_setup_upclose.jpg)
-
+Figure 6: Up close view of testing setup
 
 
 Based on these testing results, significant improvements can be made to account for resistance differences caused by external factors. A promising solution partially attempted by one student this semester was horizontal outlets for the device. However, this design can be improved upon. This semester, the horizontal outlets were incorporated on multiple sides of the device, eliminating flow differences due to tube height, but creating new variables such as leveling the surface on which the device was placed. My proposed solution for these persistent flow rate issues is continuing the use of horizontal outlets, but limiting their use to one side of the device. By putting this constraint on the devices' geometry, small errors in the level of the surface will affect outlets equally. Any small errors in the level of the surface in the direction perpendicular to the flow of the outlets would not affect this device design any more or less than that of a design with vertical outlets. Since this was not the primary issue with vertical outlets, and successful sorting has been performed with vertical outlets in the past when tubes were precisely positioned, the perpendicular angle of the device does not seem to bear a significant impact on flow rates assuming it remains minimal.
