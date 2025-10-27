@@ -25,8 +25,9 @@ Once an application is determined, the geometry and details of a PFF microfluidi
 
 
 
-# PFF Sorting as a Mechanism for ____
---
+# PFF Sorting as a Mechanism for Extracellular Vesicles
+
+An important application of size-based particle sorting that this device will be used for is filtering of extracellular vesicles (EVs). EVs are released by cells and contain proteins as well as nucleic acids and have several applications themselves. EVs provide critical information for diagnosing and treating medical conditions, making it imperative that they are separable from other cells. Similar to an experiment performed by Shin et al., this microfluidic device can be used to separate EVs from cancer cells grown within a culture. Since EVs are on the micro and nano scale, they can be easily sorted from cancer cell cultures based on size. For the sake of prototyping this device, cell diameters of 125-150 μm and 425-500 μm were utilized in this design to represent the size difference in this application.
 
 
 
@@ -161,3 +162,7 @@ O’Grady B. J., Geuy M. D., Kim H., Balotin K. M., Allchin E. R., Florian D. C.
 
 Sajeesh, P., Sen, A.K. Particle separation and sorting in microfluidic devices: a review. 
   Microfluid Nanofluid 17, 1–52 (2014). https://doi.org/10.1007/s10404-013-1291-9.
+
+Shin, S., Han, D., Park, M.C. et al. Separation of extracellular nanovesicles and apoptotic 
+  bodies from cancer cell culture broth using tunable microfluidic systems. Sci Rep 7, 9907 (2017). 
+  https://doi.org/10.1038/s41598-017-08826-w.
