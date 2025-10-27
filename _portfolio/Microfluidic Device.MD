@@ -41,7 +41,7 @@ This application of PFF was designed with specifications in mind for particle si
   4.	Asymmetric Design and Channels Heights: An asymmetric design was chosen to sort the particles based on the necessary channel heights for these particular particle diameters. Channel heights were determined using the equations below with particle diameters in the ranges stated above:
 
 
-## Unit Conversions
+### Unit Conversions
 
 Convert particle diameters from micrometers to millimeters:
 
@@ -51,7 +51,7 @@ Convert particle diameters from micrometers to millimeters:
 
 ---
 
-## Outlet Position Calculations
+### Outlet Position Calculations
 
 ### Smaller Particle
 
@@ -71,17 +71,24 @@ Since these calculations provide the height of the particle center, additional s
 
   5.	Flow Balance and Resistance: Based on particle and channel size discussed above, an uneven quantity of liquid is intended to flow into each channel. To keep flow consistent, allowing liquid to move through the device and to the outlet at an equal speed to avoid backflow, additional resistance was applied to channels to reduce flow rate. Calculations utilized to adjust resistance are seen below:
 
+
+### Hydraulic Resistance Equation
+
 ![](https://latex.codecogs.com/svg.image?R=\frac{12\mu L}{w,h^3})
+
+All other factors will remain constant within the device, giving an inverse relationship between 𝑤 and L for flow rates.
+
+### Buffer Channel
 
 ![](https://latex.codecogs.com/svg.image?w_1=31\text{ mm},\quad L_1=15.351\text{ mm})
 
-For 
-𝑤 = 3.3
+### For 𝑤 = 3.3 
+(based on channel height calculations)
 
 ![](https://latex.codecogs.com/svg.image?L_2=15.351\times\frac{31}{3.3}=144.2\text{ mm})
 
-For 
-𝑤 = 7.6
+### For 𝑤 = 7.6 
+(based on channel height calculations)
 
 ![](https://latex.codecogs.com/svg.image?L_3=15.351\times\frac{31}{7.6}=62.7\text{ mm})
 
