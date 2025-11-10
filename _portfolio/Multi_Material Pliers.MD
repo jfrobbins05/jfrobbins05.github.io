@@ -2,11 +2,11 @@
 title: "Multi-Material Pliers"
 excerpt: "Print-in place technique used to combine PLA and TPU"
 header:
-  image: /assets/img/Pliers_4.jpg
+  image: /assets/img/pliers_4.jpg
   teaser: /assets/img/Pliers_4.jpg
 gallery:
-  - image_path: assets/img/Pliers_4.jpg
-  - image_path: assets/img/Pliers_4.jpg
+  - image_path: assets/img/pliers_4.jpg
+  - image_path: assets/img/pliers_4.jpg
    
 ---
 
@@ -25,7 +25,7 @@ This process is not only applicable for pliers, but for many more complex applic
 
 # Iteration 1
 
-![Plier Iteration 1](/assets/img/Pliers_1.jpg)
+![Plier Iteration 1](/assets/img/pliers_1.jpg)
 
 My initial printed pliers were unsuccessful for several reasons, many of which were related to their unnecessarily large scale. The flexible TPU component in the center was very was_____, resulting in weakness and flexibility in the direction perpendicular to the movement of the pliers. The size also resulted in bulky handle and jaw components, applying a lot of weight on the flexible TPU portion and adding to their flimsiness.
 
@@ -46,7 +46,7 @@ While the scale and functionality of the center TPU piece was successful in this
 
 # Iteration 4 & Testing
 
-![Pliers Iteration 4](/assets/img/Pliers_4.jpg)
+![Pliers Iteration 4](/assets/img/pliers_4.jpg)
 
 In my final iteration I resolved these issues by making minor adjustments to the CAD model and reprinting both parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap by ____ in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction.
 
