@@ -28,7 +28,7 @@ Also utilizing PLA and TPU, Hainswroth et al demonstrates the use of print-in-pl
 # Iteration 1
 
 ![Plier Iteration 1](/assets/img/IMG_6726.jpg)
-Figure 1
+Figure 1: Pliers iteration 1
 
 My initial printed pliers (Figure 1) were unsuccessful for several reasons, many of which were related to their unnecessarily large scale. The flexible TPU component in the center had a side length of 70.80 mm, resulting in weakness and flexibility in the direction perpendicular to the movement of the pliers. It was also immeditaely apparent that the infill density was not sufficient for the side and that extrusion width needed to be increased as layers were not completely bonded together. The size also resulted in bulky handle and jaw components, applying a lot of weight to the center and adding to the flimsiness of the pliers.
 
@@ -37,7 +37,7 @@ My initial printed pliers (Figure 1) were unsuccessful for several reasons, many
 # Iteration 2
 
 ![Pliers Iteration 2](/assets/img/Pliers_2.jpg)
-Figure 2
+Figure 2: Pliers iteration 2
 
 In my next iteration, I scaled down the entire design, adjusting the center piece to have a side length of 35.36 mm which can be seen in the size comparison in Figure 2. I also adjusted the infill material to have a width of 1.2 by over-extruding the nozzle and increased the density to be proportional to the support need for pliers of this new size. While the scale and functionality of the center TPU piece was successful in this iteration, the pliers were unusable since the offset of the trapezoidal joinery was too great for this scale, causing the handles and jaws to slip out of the center piece.
 
@@ -45,14 +45,14 @@ In my next iteration, I scaled down the entire design, adjusting the center piec
 # Iteration 3
 
 ![Pliers Iteration 3](/assets/img/Pliers_3.jpg)
-Figure 3
+Figure 3: Pliers iteration 3
 
 In my next iteration (Figure 3), I only reprinted the TPU center to enlarge the joinery, eliminating the offset between the parts. The pieces now fit together and the pliers were functional, but a few issues still presented themselves and performance could certainly be improved. The joinery was still not as snug as desired, the plier jaws only came together at one single point, and the part was still flexing mildly in the direction perpendicular to the shear of the pliers.
 
 # Iteration 4 & Testing
 
 ![Pliers Iteration 4](/assets/img/IMG_6850.jpg)
-Figure 4
+Figure 4: Pliers iteration 4
 
 In my final iteration (Figure 4) I resolved these issues by making minor adjustments to the CAD model and reprinting all parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction. These adjustments proved very successful in improving the functionality and efficiency of the pliers. The final design can be viewed here:
 
@@ -82,7 +82,7 @@ TPU - Center Component (Seen in Figure 5)
     - Bottom: 0
 
 ![Super Slicer](/assets/img/Screenshot 2025-11-09 180640.png)
-Figure 5
+Figure 5: Sliced STL of TPU center
 
 Key Plier Dimensions
 - Full Length: 156.74 mm
