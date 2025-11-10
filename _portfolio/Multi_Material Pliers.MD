@@ -65,8 +65,8 @@ PLA (Handles and Jaws)
 - Infill Shape: Rectilinear (default)
 - Extrusion Width: 0.6 mm (default)
 - Horizontal Shells Solid Layers
-    - Top: 3
-    - Bottom: 3
+    - Top: 3 (deafult)
+    - Bottom: 3 (default)
 
 TPU (Center Component)
 -	Infill Density: 14%
