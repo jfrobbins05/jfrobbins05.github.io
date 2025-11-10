@@ -57,7 +57,9 @@ Figure 4: Pliers iteration 4
 In my final iteration (Figure 4) I resolved these issues by making minor adjustments to the CAD model and reprinting all parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction. These adjustments proved very successful in improving the functionality and efficiency of the pliers. They were able to pick up the desired one resistor (Figure 5) as well as an additional ___ resistors in 30 seconds.
 
 ![Pliers animation](/assets/img/pliers_gif.gif)
+Figure 5: Successfully picking up resistor
 
+CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811bf98db0a920a9ac0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
@@ -74,7 +76,7 @@ PLA - Handles and Jaws
     - Top: 3 (deafult)
     - Bottom: 3 (default)
 
-TPU - Center Component (Seen in Figure 5)
+TPU - Center Component (Seen in Figure 6)
 -	Infill Density: 14%
 - Infill Angle: 45 degrees (default)
 - Infill Shape: Rectilinear
@@ -84,7 +86,7 @@ TPU - Center Component (Seen in Figure 5)
     - Bottom: 0
 
 ![Super Slicer](/assets/img/Screenshot 2025-11-09 180640.png)
-Figure 5: Sliced STL of TPU center
+Figure 6: Sliced STL of TPU center
 
 Key Plier Dimensions
 - Full Length: 156.74 mm
