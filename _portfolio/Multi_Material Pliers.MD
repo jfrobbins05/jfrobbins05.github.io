@@ -70,7 +70,7 @@ TPU (Center Component)
 -	Infill Density: 14%
 - Infill Angle: 45 degrees (default)
 - Infill Shape: Rectilinear
--	Extrusion Width: 1.2 mm (using 0.6 nozzle over extruding)
+-	Extrusion Width: 1.2 mm (over-extruding with 0.6 mm nozzle)
 -	Horizontal Shells Solid Layers
     - Top: 0
     - Bottom: 0
