@@ -2,11 +2,11 @@
 title: "Multi-Material Pliers"
 excerpt: "Print-in place technique used to combine PLA and TPU"
 header:
-  image: /assets/img/IMG_6850.jpg
-  teaser: /assets/img/IMG_6850.jpg
+  image: /assets/img/IMG_6851 (2).jpg
+  teaser: /assets/img/IMG_6851 (2).jpg
 gallery:
-  - image_path: assets/img/IMG_6850.jpg
-  - image_path: assets/img/IMG_6850.jpg
+  - image_path: assets/img/IMG_6851 (2).jpg
+  - image_path: assets/img/IMG_6851 (2).jpg
    
 ---
 
