@@ -2,11 +2,11 @@
 title: "Multi-Material Pliers"
 excerpt: "Print-in place technique used to combine PLA and TPU"
 header:
-  image: /assets/img/microfluidic_device.jpg
-  teaser: /assets/img/microfluidic_device.jpg
+  image: /assets/img/Pliers_4.jpg
+  teaser: /assets/img/Pliers_4.jpg
 gallery:
-  - image_path: assets/img/microfluidic_device.jpg
-  - image_path: assets/img/microfluidic_device.jpg
+  - image_path: assets/img/Pliers_4.jpg
+  - image_path: assets/img/Pliers_4.jpg
    
 ---
 
@@ -50,11 +50,11 @@ While the scale and functionality of the center TPU piece was successful in this
 
 In my final iteration I resolved these issues by making minor adjustments to the CAD model and reprinting both parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap by ____ in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction.
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b6028115319aead2672a0d7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811bf98db0a920a9ac0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 # Final Print Settings and Specifications
-These settings were utilized in the final iteration of pliers:
+These settings and specifications were utilized in the final iteration of pliers:
 
 TPU (Center Component)
 -	Infill Density: 14%
@@ -74,6 +74,10 @@ PLA (Handles and Jaws)
     - Top: 3
     - Bottom: 3
 
+Key Plier Dimensions
+- Full Length: 156.74 mm
+- Jaw Length: 39.12 mm
+- Jaw Capacity: 8.00 mm
 
 # Citations
 Rosa, F., Bordegoni, M., Dentelli, A., Sanzone, A., & Sotgiu, A. (2017). Print-in-place 
