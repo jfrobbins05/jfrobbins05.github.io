@@ -2,34 +2,34 @@
 title: "Multi-Material Pliers"
 excerpt: "Print-in place technique used to combine PLA and TPU"
 header:
-  image: /assets/img/pliers_4.jpg
+  image: /assets/img/Pliers_4.jpg
   teaser: /assets/img/Pliers_4.jpg
 gallery:
-  - image_path: assets/img/pliers_4.jpg
-  - image_path: assets/img/pliers_4.jpg
+  - image_path: assets/img/Pliers_4.jpg
+  - image_path: assets/img/Pliers_4.jpg
    
 ---
 
 
 # The Project
-This project aims to design print-in-place parts for pliers capable of picking up small objects such as a resistor. In order to accomplish this, two different materials (TPU and PLA) were needed to create strong, rigid handles and jaws with a flexible center to maneuver the jaws inward and outward.
+This project aims to design print-in-place parts for pliers capable of picking up small objects such as a resistor. In order to accomplish this, two different materials (TPU and PLA) were utilized to create strong, rigid handles and jaws with a flexible center part to allow for inward and outward manuevering. The pliers were designed to remain open when not in use.
 
 
 
 # Print-In-Place
-Print-in-place parts serve as an alternative to multi-material printing for applications that require multiple types of material properties. Print-in-place utilizes a single extruder 3D printer and requires detailed prototyping to allow parts to fit together snuggly without any complicated post-processing or assembly steps.
+Print-in-place parts serve as an alternative to multi-material printing for applications that require a variety of material properties. Print-in-place utilizes a single extruder 3D printer instead of a multi-extruder printer, limiting complications during printing. However, this process requires detailed prototyping to allow parts to fit together snuggly without any complex post-processing or assembly steps.
 
-This process is not only applicable for pliers, but for many more complex applications. In a study performed by Rosa et al. specifically TPU and PLA (identical materials to the manufactured pliers) were utilized in a print-in-place Flexi-Hand and an Adaptive-Grip robotic system. The hand simulates the full movement of a real human hand with multiple joints at each finger while the Adaptive-Grip system serves as a grabbing aid for the physically impaired, both requiring both rigid and flexible components. These applications are intended to demonstrate the larger conclusion of the research that the print-in-place process is particularly useful for connecting flexible and rigid parts into one system. 
+Print-in-place technology is not only applicable for pliers, but for many more robust applications. In a study performed by Rosa et al, TPU and PLA (identical materials to the manufactured pliers) were utilized in a print-in-place Flexi-Hand and an Adaptive-Grip robotic system. The hand simulates the full movement of a real human hand with multiple joints at each finger while the Adaptive-Grip system serves as a grabbing aid for the physically impaired, both requiring rigid and flexible components. These applications are intended to demonstrate the larger conclusion of Rosa et al's research that the print-in-place process is particularly useful for connecting flexible and rigid parts into one system. 
 
-Also utilizing PLA and TPU, Hainswroth et al demonstrates the use of print-in-place parts for soft robotics with a flexible actuator. The study highlights print-in-place manufacturing as a strong option for morphological applications. In a general sense, print-in-place technology allows for greater mobility and possibilities between links and joints with only a single extruder. Beyond just movement, print-in-place tehcnology can also be used for the combination of materials with different aesthetic qualities, temperature tolerances, or other material properties.
+Also utilizing PLA and TPU, Hainswroth et al demonstrates the use of print-in-place parts for soft robotics with a flexible actuator. The study highlights print-in-place manufacturing as a promising option for morphological applications which cannot be reduced to a single set of material properties. In a general sense, print-in-place technology allows for greater mobility and possibilities between links and joints with only a single extruder. Beyond just movement, print-in-place tehcnology can also be used for the combination of materials with different aesthetic qualities, temperature tolerances, or other material properties.
 
 
 
 # Iteration 1
 
-![Plier Iteration 1](/assets/img/pliers_1.jpg)
+![Plier Iteration 1](/assets/img/Pliers_1.jpg)
 
-My initial printed pliers were unsuccessful for several reasons, many of which were related to their unnecessarily large scale. The flexible TPU component in the center was very was_____, resulting in weakness and flexibility in the direction perpendicular to the movement of the pliers. The size also resulted in bulky handle and jaw components, applying a lot of weight on the flexible TPU portion and adding to their flimsiness.
+My initial printed pliers (Figure 1) were unsuccessful for several reasons, many of which were related to their unnecessarily large scale. The flexible TPU component in the center had a side length of 70.80 mm, resulting in weakness and flexibility in the direction perpendicular to the movement of the pliers. It was also immeditaely apparent that the infill density was not sufficient for the side and that extrusion width needed to be increased as layers were not completely bonded together. The size also resulted in bulky handle and jaw components, applying a lot of weight to the center and adding to the flimsiness of the pliers.
 
 
 
@@ -37,20 +37,20 @@ My initial printed pliers were unsuccessful for several reasons, many of which w
 
 ![Pliers Iteration 2](/assets/img/Pliers_2.jpg)
 
-In my next iteration, I scaled down the entire design and adjusted the infill material to have a width of 1.2 by over-extruding the nozzle and increasing the density to be proportional to the support need for pliers that size.
+In my next iteration, I scaled down the entire design, adjusting the center piece to have a side length of 35.36 mm which can be seen in the size comparison in Figure 2. I also adjusted the infill material to have a width of 1.2 by over-extruding the nozzle and increased the density to be proportional to the support need for pliers of this new size. While the scale and functionality of the center TPU piece was successful in this iteration, the pliers were unusable since the offset of the trapezoidal joinery was too great for this scale, causing the handles and jaws to slip out of the center piece.
 
 
 # Iteration 3
 
 ![Pliers Iteration 3](/assets/img/Pliers_3.jpg)
 
-While the scale and functionality of the center TPU piece was successful in this iteration, the pliers were unusable since the offset of the trapezoidal joinery was too great and the PLA and TPU parts were not holding together. In my next iteration, I only reprinted the TPU center to enlarge the joinery so there was no longer an offset The pieces now fit together and the pliers were functional, but a few issues still presented themselves. The joinery was still not as strong as desired, the plier jaws only came together at one single point, and the part was still flexing mildly in the direction perpendicular to the shear of the pliers.
+In my next iteration (Figure 3), I only reprinted the TPU center to enlarge the joinery, eliminating the offset between the parts. The pieces now fit together and the pliers were functional, but a few issues still presented themselves and performance could certainly be improved. The joinery was still not as snug as desired, the plier jaws only came together at one single point, and the part was still flexing mildly in the direction perpendicular to the shear of the pliers.
 
 # Iteration 4 & Testing
 
 ![Pliers Iteration 4](/assets/img/pliers_4.jpg)
 
-In my final iteration I resolved these issues by making minor adjustments to the CAD model and reprinting both parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap by ____ in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction.
+In my final iteration (Figure 4) I resolved these issues by making minor adjustments to the CAD model and reprinting all parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction. These adjustments proved very successful in improving the functionality and efficiency of the pliers. The final design can be viewed here:
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811bf98db0a920a9ac0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
