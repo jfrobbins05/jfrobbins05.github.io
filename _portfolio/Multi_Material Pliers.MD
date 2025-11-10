@@ -48,7 +48,7 @@ In my next iteration (Figure 3), I only reprinted the TPU center to enlarge the 
 
 # Iteration 4 & Testing
 
-![Pliers Iteration 4](/assets/img/pliers_4.jpg)
+![Pliers Iteration 4](/assets/img/Pliers_4.jpg)
 
 In my final iteration (Figure 4) I resolved these issues by making minor adjustments to the CAD model and reprinting all parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction. These adjustments proved very successful in improving the functionality and efficiency of the pliers. The final design can be viewed here:
 
