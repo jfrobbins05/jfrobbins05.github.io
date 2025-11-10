@@ -19,7 +19,9 @@ This project aims to design print-in-place parts for pliers capable of picking u
 # Print-In-Place
 Print-in-place parts serve as an alternative to multi-material printing for applications that require multiple types of material properties. Print-in-place utilizes a single extruder 3D printer and requires detailed prototyping to allow parts to fit together snuggly without any complicated post-processing or assembly steps.
 
-This process is not only applicable for pliers, but for many more complex applications. In a study performed by Rosa et al., specifically TPU and PLA (identical materials to the manufactured pliers) were utilized in a print-in-place Flexi-Hand and an Adaptive-Grip robotic system. The hand simulates the full movement of a real human hand with multiple joints at each finger while the Adaptive-Grip system serves as a grabbing aid for the physically impaired, both requiring both rigid and flexible components. These applications are intended to demonstrate the larger conclusion of the research that the print-in-place process is particularly useful for connecting flexible and rigid parts into one system. In a general sense, print-in-place technology allows for greater mobility and possibilities between links and joints with only a single extruder. Although not as expansive, print-in-place can also be used for the combination of materials with different aesthetic qualities, temperature tolerances, or any other material property.
+This process is not only applicable for pliers, but for many more complex applications. In a study performed by Rosa et al. specifically TPU and PLA (identical materials to the manufactured pliers) were utilized in a print-in-place Flexi-Hand and an Adaptive-Grip robotic system. The hand simulates the full movement of a real human hand with multiple joints at each finger while the Adaptive-Grip system serves as a grabbing aid for the physically impaired, both requiring both rigid and flexible components. These applications are intended to demonstrate the larger conclusion of the research that the print-in-place process is particularly useful for connecting flexible and rigid parts into one system. 
+
+Also utilizing PLA and TPU, Hainswroth et al demonstrates the use of print-in-place parts for soft robotics with a flexible actuator. The study highlights print-in-place manufacturing as a strong option for morphological applications. In a general sense, print-in-place technology allows for greater mobility and possibilities between links and joints with only a single extruder. Beyond just movement, print-in-place tehcnology can also be used for the combination of materials with different aesthetic qualities, temperature tolerances, or other material properties.
 
 
 
@@ -83,9 +85,11 @@ Key Plier Dimensions
 - Jaw Capacity: 8.00 mm
 
 # Citations
+Hainsworth, T., Smith, L., Alexander, S., MacCurdy, R. (2020). A Fabrication Free, 3D 
+    Printed, Multi-Material, Self-Sensing Soft Actuator. IEEE Robotics and Automation 
+    Letters, vol. 5, no. 3, 4118-4125. doi: 10.1109/LRA.2020.2986760.
+
 Rosa, F., Bordegoni, M., Dentelli, A., Sanzone, A., & Sotgiu, A. (2017). Print-in-place 
     of interconnected deformable and rigid parts of articulated systems. Procedia 
     Manufacturing, 11, 555–562. https://doi.org/10.1016/j.promfg.2017.07.149.
-    bodies from cancer cell culture broth using tunable microfluidic systems. Sci Rep 7, 9907 (2017). 
-    https://doi.org/10.1038/s41598-017-08826-w.
 
