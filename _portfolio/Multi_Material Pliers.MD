@@ -75,7 +75,7 @@ TPU (Center Component)
     - Top: 0
     - Bottom: 0
 
-![Super Slicer](/assets/img/Super_SLicer_Center.png)
+![Super Slicer](/assets/img/Super_Slicer_Center.png)
 
 Key Plier Dimensions
 - Full Length: 156.74 mm
