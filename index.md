@@ -22,6 +22,10 @@ feature_row:
     alt: "Microfluidic Device"
     title: "Resin Print Molded Microfluidic Device"
     excerpt: "3D printing applied to this precise sorting medical device"
+  - image_path: assets/img/Pliers_4.jpg
+    alt: "Multi-Material Pliers"
+    title: "Print-in-Place TPU and PLA Pliers"
+    excerpt: "Precise grabbing motion created with a single extruder"
 ---
 {% include feature_row %}
 
