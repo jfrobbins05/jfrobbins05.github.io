@@ -25,7 +25,7 @@ This process is not only applicable for pliers, but for many more complex applic
 
 # Iteration 1
 
-![Device Mold Drawing](/assets/img/IMG_6418.jpg)
+![Plier Iteration 1](/assets/img/Pliers_1.jpg)
 
 My initial printed pliers were unsuccessful for several reasons, many of which were related to their unnecessarily large scale. The flexible TPU component in the center was very was_____, resulting in weakness and flexibility in the direction perpendicular to the movement of the pliers. The size also resulted in bulky handle and jaw components, applying a lot of weight on the flexible TPU portion and adding to their flimsiness.
 
@@ -33,20 +33,20 @@ My initial printed pliers were unsuccessful for several reasons, many of which w
 
 # Iteration 2
 
-![Device Mold Drawing](/assets/img/IMG_6418.jpg)
+![Pliers Iteration 2](/assets/img/Pliers_2.jpg)
 
 In my next iteration, I scaled down the entire design and adjusted the infill material to have a width of 1.2 by over-extruding the nozzle and increasing the density to be proportional to the support need for pliers that size.
 
 
 # Iteration 3
 
-![Device Mold Drawing](/assets/img/IMG_6418.jpg)
+![Pliers Iteration 3](/assets/img/Pliers_3.jpg)
 
 While the scale and functionality of the center TPU piece was successful in this iteration, the pliers were unusable since the offset of the trapezoidal joinery was too great and the PLA and TPU parts were not holding together. In my next iteration, I only reprinted the TPU center to enlarge the joinery so there was no longer an offset The pieces now fit together and the pliers were functional, but a few issues still presented themselves. The joinery was still not as strong as desired, the plier jaws only came together at one single point, and the part was still flexing mildly in the direction perpendicular to the shear of the pliers.
 
 # Iteration 4 & Testing
 
-![Device Mold Drawing](/assets/img/IMG_6418.jpg)
+![Pliers Iteration 4](/assets/img/Pliers_4.jpg)
 
 In my final iteration I resolved these issues by making minor adjustments to the CAD model and reprinting both parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap by ____ in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction.
 
@@ -54,17 +54,31 @@ In my final iteration I resolved these issues by making minor adjustments to the
 
 
 # Final Print Settings and Specifications
+These settings were utilized in the final iteration of pliers:
 
--	Infill density: 14%
--	Width: 1.2 mm (using 0.6 nozzle over extruding)
--	No top and bottom layers – set to 0
--	TPU
+TPU (Center Component)
+-	Infill Density: 14%
+- Infill Angle: 45 degrees (default)
+- Infill Shape: Rectilinear
+-	Extrusion Width: 1.2 mm (using 0.6 nozzle over extruding)
+-	Horizontal Shells Solid Layers
+    - Top: 0
+    - Bottom: 0
+
+PLA (Handles and Jaws)
+- Infill Density: 15% (default)
+- Infill Angle: 45 degrees (default)
+- Infill Shape: Rectilinear (default)
+- Extrusion Width: 0.6 mm (default)
+- Horizontal Shells Solid Layers
+    - Top: 3
+    - Bottom: 3
 
 
 # Citations
 Rosa, F., Bordegoni, M., Dentelli, A., Sanzone, A., & Sotgiu, A. (2017). Print-in-place 
     of interconnected deformable and rigid parts of articulated systems. Procedia 
     Manufacturing, 11, 555–562. https://doi.org/10.1016/j.promfg.2017.07.149.
-  bodies from cancer cell culture broth using tunable microfluidic systems. Sci Rep 7, 9907 (2017). 
-  https://doi.org/10.1038/s41598-017-08826-w.
+    bodies from cancer cell culture broth using tunable microfluidic systems. Sci Rep 7, 9907 (2017). 
+    https://doi.org/10.1038/s41598-017-08826-w.
 
