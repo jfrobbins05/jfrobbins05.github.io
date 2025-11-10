@@ -81,7 +81,7 @@ TPU - Center Component (Seen in Figure 5)
     - Top: 0
     - Bottom: 0
 
-![Super Slicer](/assets/img/Screenshot.png)
+![Super Slicer](/assets/img/Screenshot 2025-11-09 180640.png)
 Figure 5
 
 Key Plier Dimensions
