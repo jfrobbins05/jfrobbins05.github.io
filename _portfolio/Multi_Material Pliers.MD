@@ -2,11 +2,11 @@
 title: "Multi-Material Pliers"
 excerpt: "Print-in place technique used to combine PLA and TPU"
 header:
-  image: /assets/img/Pliers_4.jpg
-  teaser: /assets/img/Pliers_4.jpg
+  image: /assets/img/IMG_6850.jpg
+  teaser: /assets/img/IMG_6850.jpg
 gallery:
-  - image_path: assets/img/Pliers_4.jpg
-  - image_path: assets/img/Pliers_4.jpg
+  - image_path: assets/img/IMG_6850.jpg
+  - image_path: assets/img/IMG_6850.jpg
    
 ---
 
@@ -27,7 +27,7 @@ Also utilizing PLA and TPU, Hainswroth et al demonstrates the use of print-in-pl
 
 # Iteration 1
 
-![Plier Iteration 1](/assets/img/Pliers_1.jpg)
+![Plier Iteration 1](/assets/img/IMG_6726.jpg)
 
 My initial printed pliers (Figure 1) were unsuccessful for several reasons, many of which were related to their unnecessarily large scale. The flexible TPU component in the center had a side length of 70.80 mm, resulting in weakness and flexibility in the direction perpendicular to the movement of the pliers. It was also immeditaely apparent that the infill density was not sufficient for the side and that extrusion width needed to be increased as layers were not completely bonded together. The size also resulted in bulky handle and jaw components, applying a lot of weight to the center and adding to the flimsiness of the pliers.
 
@@ -48,7 +48,7 @@ In my next iteration (Figure 3), I only reprinted the TPU center to enlarge the 
 
 # Iteration 4 & Testing
 
-![Pliers Iteration 4](/assets/img/Pliers_4.jpg)
+![Pliers Iteration 4](/assets/img/IMG_6850.jpg)
 
 In my final iteration (Figure 4) I resolved these issues by making minor adjustments to the CAD model and reprinting all parts of the pliers. I added a notch at the end of the jaws, creating a larger surface area for grabbing and an angle at which they meet flushly. I adjusted the offset to allow the two parts to slightly overlap in CAD, giving them a snug fit due to the flexibility of the TPU and the slight rounding of corners when printed. Finally, I extruded the entirety of the part 3 mm higher to give it greater thickness and enhanced stability in the perpendicular direction. These adjustments proved very successful in improving the functionality and efficiency of the pliers. The final design can be viewed here:
 
