@@ -56,14 +56,6 @@ In my final iteration I resolved these issues by making minor adjustments to the
 # Final Print Settings and Specifications
 These settings and specifications were utilized in the final iteration of pliers:
 
-TPU (Center Component)
--	Infill Density: 14%
-- Infill Angle: 45 degrees (default)
-- Infill Shape: Rectilinear
--	Extrusion Width: 1.2 mm (using 0.6 nozzle over extruding)
--	Horizontal Shells Solid Layers
-    - Top: 0
-    - Bottom: 0
 
 PLA (Handles and Jaws)
 - Infill Density: 15% (default)
@@ -73,6 +65,17 @@ PLA (Handles and Jaws)
 - Horizontal Shells Solid Layers
     - Top: 3
     - Bottom: 3
+
+TPU (Center Component)
+-	Infill Density: 14%
+- Infill Angle: 45 degrees (default)
+- Infill Shape: Rectilinear
+-	Extrusion Width: 1.2 mm (using 0.6 nozzle over extruding)
+-	Horizontal Shells Solid Layers
+    - Top: 0
+    - Bottom: 0
+
+![Super Slicer](/assets/img/Super_SLicer_Center.png)
 
 Key Plier Dimensions
 - Full Length: 156.74 mm
