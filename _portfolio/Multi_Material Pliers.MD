@@ -90,13 +90,13 @@ Figure 6: Sliced STL of TPU center
 
 Key Plier Dimensions
 - Full Length: 156.74 mm
-- Jaw Length: 39.12 mm
+- Jaw Length: 39.12 mm.
 - Jaw Capacity: 8.00 mm
 
 # Citations
 Hainsworth, T., Smith, L., Alexander, S., MacCurdy, R. (2020). A Fabrication Free, 3D 
     Printed, Multi-Material, Self-Sensing Soft Actuator. IEEE Robotics and Automation 
-    Letters, vol. 5, no. 3, 4118-4125. doi: 10.1109/LRA.2020.2986760.
+    Letters, vol. 5, no. 3, 4118-4125. https://doi.org/10.1109/LRA.2020.2986760.
 
 Rosa, F., Bordegoni, M., Dentelli, A., Sanzone, A., & Sotgiu, A. (2017). Print-in-place 
     of interconnected deformable and rigid parts of articulated systems. Procedia 
