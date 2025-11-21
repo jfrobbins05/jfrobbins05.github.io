@@ -27,7 +27,7 @@ To apply this mechanism to a phone case. A backing was added to the detent circl
 ![Image of Cross Section](/assets/img/IMG_6726.jpg)
 Figure 1
 
-![Rotation gif](/assets/img/pliers_gif.gif)
+![Rotation gif](/assets/img/Bike_Mount_GIF.gif)
 Figure 2
 
 # Materials Selection and Printing Specifications
