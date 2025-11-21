@@ -56,14 +56,5 @@ Figure 4
 ![Parts Separated Image](/assets/img/IMG_6726.jpg)
 Figure 5
 
-![Rendering Image](/assets/img/Top_Down_Rendering.png)
-Figure 6: Rendering of device fully installed on bike handles and holding phone in the upright orientation
-
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811d3b0fece225a99d3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-
-
-# Citations
-
-
