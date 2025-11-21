@@ -46,10 +46,10 @@ The original thicknesses of the base holding the spring of the detent mechanism 
 I redesigned both components to have 2 holes each to be connected with M5 bolts. Similarly, I added two holes for M5 bolts on the component connecting to the device so that it could be more securely attached. Although this makes the assembly process slightly more complex, it is still relatively simple and worth the tradeoff for a sturdy mount. Additionally, the lip of the attachment component came up higher on the base to allow for the bolt holes, necessitating the size of the rotating piece to be smaller for these two elements to not interfere as discussed above.
 
 
-![Image of Phone Upright](/assets/img/IMG_6726.jpg)
+![Image of Phone Upright](/assets/img/Bike_Mount_Upright.PNG)
 Figure 3
 
-![Image of Phone Sideways](/assets/img/IMG_6726.jpg)
+![Image of Phone Sideways](/assets/img/Bike_Mount_90.PNG)
 Figure 4
 
 # Assembly Instructions
