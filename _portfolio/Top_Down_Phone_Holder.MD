@@ -35,7 +35,7 @@ Top-down modeling is a workflow utilized in CAD programs to simultaneously creat
   2.  Name the component immediately to prevent confusion.
   3.  Ensure that the component is activated before starting any sketches or making any changes pertaining to the component.
 
-![Rotation gif](/assets/img/Bike_Mount_GIF.gif)
+![Rotation gif](/assets/img/Bike_Mount_Animation.gif)
 
 Figure 2: Animation of phone rotating from upright to 90 degrees back to upright
 
