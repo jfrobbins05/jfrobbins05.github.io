@@ -37,7 +37,7 @@ Top-down modeling is a workflow utilized in CAD programs to simultaneously creat
 
 ![Rotation gif](/assets/img/Bike_Mount_GIF.gif)
 
-Figure2: Animation of phone rotating from upright to 90 degrees back to upright
+Figure 2: Animation of phone rotating from upright to 90 degrees back to upright
 
 
 # Rotation Mechanism
