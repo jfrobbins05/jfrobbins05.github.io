@@ -28,7 +28,7 @@ The design was created using a simple, ball-and-spring detent mechanism. This me
 To apply this mechanism to a phone case. A backing was added to the detent circle, allowing a screw to go entirely through the assembly and allow the circle to rotate freely without other movement. These pieces can be seen in Figure 5 which models the disassembled components.
 
 
-![Image of Cross Section](/assets/img/Bike_Mount_Cross_Section.PNG)
+![Image of Cross Section](/assets/img/Bike_Mount_Cross_Section.png)
 Figure 2: Cross Section of detent mechanism in mount
 
 # Materials Selection and Printing Specifications
