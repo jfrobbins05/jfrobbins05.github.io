@@ -43,10 +43,10 @@ Dimensions were determined based on certain set parameters, but also adjusted th
 
 After printing, it was apparent that this was a flawed design as it left many of the phone’s important buttons compressed. Due to the snugness of this initial attempt, I felt comfortable reducing the overall size of the case and allowing it to hold only about half of the phone’s length. This modified design proved successful and allowed for a smaller rotating piece which became necessary in the next iteration of the other two components.
 
-![Image of Phone Upright](/assets/img/Bike_Mount_Upright.PNG)
+![Image of Phone Upright](/assets/img/Bike_Mount_Upright.jpg)
 Figure 3: Phone rotated upright in bike mount
 
-![Image of Phone Sideways](/assets/img/Bike_Mount_90.PNG)
+![Image of Phone Sideways](/assets/img/Bike_Mount_90.jpg)
 Figure 4: Phone rotated 90 degrees in bike mount
 
 The original thicknesses of the base holding the spring of the detent mechanism as well as the component attaching the mechanism to the bike were designed to fit snuggly together. Additionally, the dimensions of the attachment portion were designed to fit snuggly on the handlebars. However, due to the conditions the assembly would be under on an uneven road, I felt that a more sturdy connection was needed for the vibrations of this application.
