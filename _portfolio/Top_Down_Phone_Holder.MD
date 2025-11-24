@@ -17,9 +17,9 @@ gallery:
 Figure 1: Animation of phone rotating from upright to 90 degrees back to upright
 
 Top-down modeling is a workflow utilized in CAD programs to simultaneously create multiple, separate components within one model. This process is extremely useful if dimensions of parts are based on other part sizes and pairs well with other Fusion 360 features such as parametric modeling and projections. If 3 key steps are followed, top-down modeling works seamlessly. They are as follows:
-    1.	Always start by making a new component within the assembly.
-    2.	Name the component immediately to prevent confusion.
-    3.	Ensure that the component is activated before starting any sketches or making any changes pertaining to the component.
+  1.  Always start by making a new component within the assembly.
+  2.  Name the component immediately to prevent confusion.
+  3.  Ensure that the component is activated before starting any sketches or making any changes pertaining to the component.
 
 
 # Rotation Mechanism
