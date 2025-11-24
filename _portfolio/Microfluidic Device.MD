@@ -9,7 +9,7 @@ gallery:
   - image_path: assets/img/microfluidic_device.jpg
    
 ---
-
+by Jacy Robbins
 
 # Introduction to Microfluidic Devices and Applications 
 Microfluidic devices are utilized to process small amounts of liquid (ex: 50 microliters) for medical applications. This processing can often take the form of mixing, sorting, or generating droplets and can be used for applications such as medical diagnostics, tissue engineering, pollution detection, or DNA sequencing. The device below is designed to sort particles based on size which can be applied to cells, viruses, sperm, blood components, fungal spores, metal particles, or extracellular vesicles.
