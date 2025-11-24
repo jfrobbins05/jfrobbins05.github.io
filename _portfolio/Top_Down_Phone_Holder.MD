@@ -54,7 +54,7 @@ I redesigned both components to have 2 holes each to be connected with M5 bolts.
 
 
 # Assembly Instructions
-![Parts Separated Image](/assets/img/IMG_6726.jpg)
+![Parts Separated Image](/assets/img/Bike_Mount_Parts.png)
 Figure 5: Bike mount parts disassembled
 
 # CAD Model
