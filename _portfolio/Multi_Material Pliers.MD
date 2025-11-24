@@ -9,7 +9,7 @@ gallery:
   - image_path: assets/img/IMG_6851 (2).jpg
    
 ---
-
+by Jacy Robbins
 
 # The Project
 This project aims to design print-in-place pliers capable of picking up small objects such as a resistor. In order to accomplish this, two different materials (TPU and PLA) were utilized to create strong, rigid handles and jaws with a flexible spring component in the center for inward and outward manuevering. The pliers were designed to remain open when not in use.
