@@ -26,6 +26,10 @@ feature_row:
     alt: "Multi-Material Pliers"
     title: "Print-in-Place TPU and PLA Pliers"
     excerpt: "Precise grabbing motion created with a single extruder"
+  - image_path: assets/img/Top_Down_Rendering.PNG
+    alt: "Bike Mount"
+    title: "Bike Handlebar Phone Mount"
+    excerpt: "Rotatable phone mount designed with top-down modeling!"
 ---
 {% include feature_row %}
 
