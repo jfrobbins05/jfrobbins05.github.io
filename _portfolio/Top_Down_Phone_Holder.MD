@@ -55,12 +55,12 @@ I redesigned both components to have 2 holes each to be connected with M5 bolts.
 
 # Assembly Instructions
 
-  1.  Insert the 1 x 8 x 12mm spring into the vertical hole in the detent mechanism base.
+  1.  Insert the 1 x 8 x 12mm spring into the vertical hole in the red detent mechanism base.
   2.  Balance the 8 mm ball bearing atop the spring
-  3.  Place the detent circle phone holder atop the spring and keep the spring compressed. The phone holder should be facing upright, allowing a phone to be slid in from above.
+  3.  Place the black detent circle phone holder atop the spring and keep the spring compressed. The phone holder should be facing upright, allowing a phone to be slid in from above.
   4.  While the spring remains compressed, insert the M5 x 22mm bolt through both the base and phone holder components and secure the back with an M5 nut.
   5.  Confirm the detent mechanism is working properly by listening for clicks into place as you gently rotate the phone holder clockwise.
-  6.  Slide the detent base into the bike attachment's rectangular slot and secure with 2 M5 x 20mm bolts and nuts.
+  6.  Slide the detent base into the red bike attachment's rectangular slot and secure with 2 M5 x 20mm bolts and nuts.
   7.  Slide the circular slot on the bike attachment on to an appropriate size bike handlebar.
   8.  Secure the attachment to the handlebar by inserting 2 M5 x 16mm bolts and turning nuts until the assembly is fixed in place.
   9.  Insert your phone!
