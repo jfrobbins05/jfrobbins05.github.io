@@ -30,17 +30,17 @@ Figure 1: Preserve geometries and load cases in the Fusion generative design wor
 
 Preserve geometries were used sparingly for a few key elements of the design to ensure that imperative geometries remained intact while maximizing the software’s generative design possibilities. Cylindrical geometries with through holes were maintained on either side of the hanger to support the wheels and steel axle (as seen along with other geometries in Figure 1). Additionally, a slot for the motor as well as its four screws were maintained with clearance to allow for tightening of the belt. Finally, a circular geometry and domed geometry were maintained for the hanger to fit on both the king pin and base plate respectively.
 
-![Fully Assembly](/assets/img/IMG_7366.jpg)
+![Fully Assembly](/assets/img/IMG_7490.jpg)
 Figure 2: Fully assembled skateboard including generative design hanger
 
 One error in the original preserve geometry was the hole for the king pin which did not have significant clearance for assembly. This error was resolved in the second iteration as can be seen in Figure 2 where the hanger and other skateboard components are fully assembled.
 
-![Obstacle geometry](/assets/img/IMG_7490.jpg)
+![Obstacle geometry](/assets/img/Obstacle_Geometry.jpg)
 Figure 3: Obstacle geometries in the Fusion generative design workspace
 
 Obstacle geometries were used to indicate where other components of the skateboard would be as well as clearances for assembly. Geometries slightly exceeding the size of the wheels, king pin, bearings, washers, axle, pulleys, motor, and spaces for the screws were included to prevent the generative design from creating any material that would interfere with these parts. Regions around the king pin and through the motor screw holes were included in obstacle geometry to allow extra space for bearings to be placed on and screws to slide in, respectively. Finally, an offset ground was modeled as an obstacle geometry to prevent any material from being generated that would impede the ability of the skateboard to lean. All of these obstacle geomteries can be seen in Figure 3.
 
-![Colliding pulley](/assets/img/Preserves_and_Loads.png)
+![Colliding pulley](/assets/img/IMG_7366.png)
 Figure 4: Original hanger design colliding with the pulley system
 
 One obstacle geometry that was originally missed was space for the belt in the pulley system to roatate. Since it’s a less substantial geometry and was not included in the original skateboard Fusion model, this clearance was left out of the first iteration of the design, causing the pulley to be mildly impeded by the geometry of the hanger as seen in Figure 4. This was resolved in the next design as can be seen in the clearances on either side of the pulley shown in Figures 5 and 6.
@@ -48,7 +48,7 @@ One obstacle geometry that was originally missed was space for the belt in the p
 ![Clearance for Pulley](/assets/img/IMG_7497.jpg)
 Figure 5: Second hanger design providing clearance between the hanger and the pulley system on bottom side
 
-![CLearance for Pulley 2](/assets/img/IMG_7502.jpg)
+![Clearance for Pulley 2](/assets/img/IMG_7502.jpg)
 Figure 6: Second hanger design providing clearance between the hanger and the pulley system on top side
 
 ## Applying Loads
