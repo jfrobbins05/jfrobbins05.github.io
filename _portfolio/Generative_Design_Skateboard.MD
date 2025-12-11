@@ -52,17 +52,17 @@ Figure 6: Second hanger design providing clearance between the hanger and the pu
 ## Applying Loads
 Several load cases were applied to the preserved geometries of the hanger as seen in Figure 1. These forces and moments were estimated with the weight of the motor and of a human body, but more precise methods could be utilized as well. To improve this process, Fusion 360 could be used in conjunction with other software such as Staad Pro or SolidWorks which could more accurately distributed component-by-component loads off a few key data points. The loads determined necessary for this project are as follows:
 
-Structural Constraint: The structural constraint was placed at the domed end of the hanger touching the base plate. This placement was selected since the domed end is held in the pivot cup which connects to the rest of the skateboard making it an appropriate spot for an anchor. Structural constraints impact the load paths of the geometry and it seems intuitive for the load paths to connect back to the anchor of the skateboard since that’s where many of the loads are originating from. The resulting material will be significant near the constraint to support these load paths.
+* **Structural Constraint:** The structural constraint was placed at the domed end of the hanger touching the base plate. This placement was selected since the domed end is held in the pivot cup which connects to the rest of the skateboard making it an appropriate spot for an anchor. Structural constraints impact the load paths of the geometry and it seems intuitive for the load paths to connect back to the anchor of the skateboard since that’s where many of the loads are originating from. The resulting material will be significant near the constraint to support these load paths.
 
-X Moment on Motor Mount: The moment in the X direction on the motor mount is applied by the torque of the motor and was determined by the maximum torque listed in the motor product description.
+* **X Moment on Motor Mount:** The moment in the X direction on the motor mount is applied by the torque of the motor and was determined by the maximum torque listed in the motor product description.
 
-Y Moment on Motor Mount: The moment in the Y direction on the motor mount is applied by the weight of the motor itself and was determined by the weight of the motor listed in its product description as well as the distance between its center of mass and the mount.
+* **Y Moment on Motor Mount:** The moment in the Y direction on the motor mount is applied by the weight of the motor itself and was determined by the weight of the motor listed in its product description as well as the distance between its center of mass and the mount.
 
-Z Moment on Motor Mount: The moment in the Z direction on the motor mount I applied by the tension of the belt being pulled by the pulley. This magnitude was determined utilizing the torque of the motor on the pulley system and the distance of the belt from the motor mount.
+* **Z Moment on Motor Mount:** The moment in the Z direction on the motor mount I applied by the tension of the belt being pulled by the pulley. This magnitude was determined utilizing the torque of the motor on the pulley system and the distance of the belt from the motor mount.
 
-Torque on Hanger Ends: The torque on the hanger ends is applied by a twisting motion as someone leans on the board. The magnitude of this torque was determined by human body weight and approved AI assistance.
+* **Torque on Hanger Ends:** The torque on the hanger ends is applied by a twisting motion as someone leans on the board. The magnitude of this torque was determined by human body weight and approved AI assistance.
 
-Forces on Hanger Ends: The forces on the hanger ends come directly from the vertical forces of the person on the board. This force was determined from human body weight and distributed between the two ends as well as the bearing load on the king pin.
+* **Forces on Hanger Ends:** The forces on the hanger ends come directly from the vertical forces of the person on the board. This force was determined from human body weight and distributed between the two ends as well as the bearing load on the king pin.
 Bearing Load on King Pin Hole: See above.
 
 Note: The applied loads in the model were based on a maximum body weight of 300 pounds.
