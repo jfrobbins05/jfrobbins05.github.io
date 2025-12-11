@@ -1,12 +1,12 @@
 ---
-title: "Multi-Material Pliers"
-excerpt: "Print-in place technique used to combine PLA and TPU"
+title: "Generative Design Skateboard Hanger"
+excerpt: "Nylon-printed prototype for a lightweight skateboard hanger"
 header:
-  image: /assets/img/IMG_6851 (2).jpg
-  teaser: /assets/img/IMG_6851 (2).jpg
+  image: /assets/img/GD_Skateboard_ALSi10Mg_Rendering.png
+  teaser: /assets/img/GD_Skateboard_ALSi10Mg_Rendering.png
 gallery:
-  - image_path: assets/img/IMG_6851 (2).jpg
-  - image_path: assets/img/IMG_6851 (2).jpg
+  - image_path: assets/img/GD_Skateboard_ALSi10Mg_Rendering.png
+  - image_path: assets/img/GD_Skateboard_ALSi10Mg_Rendering.png
    
 ---
 by Jacy Robbins
@@ -43,10 +43,10 @@ Figure 4: Original hanger design colliding with the pulley system
 
 An error that manifested in the obstacle geometry was not accounting for clearance for the belt connecting the pulleys. Since it’s a less substantial geometry and was not included in the base Fusion model being designed off of, this clearance was left out of the first iteration of the design, causing the pulley to be mildly impeded by the geometry of the hanger as seen in Figure 3. This was resolved in the next design as can be seen in the clearances on either side of the pulley shown in Figures 5 and 6.
 
-![Clearance for Pulley](/assets/img/IMG_7497.png)
+![Clearance for Pulley](/assets/img/IMG_7497.jpg)
 Figure 5: Second hanger design providing clearance between the hanger and the pulley system on bottom side
 
-![CLearance for Pulley 2](/assets/img/IMG_7502.png)
+![CLearance for Pulley 2](/assets/img/IMG_7502.jpg)
 Figure 6: Second hanger design providing clearance between the hanger and the pulley system on top side
 
 ## Applying Loads
