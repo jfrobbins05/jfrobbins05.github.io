@@ -30,7 +30,7 @@ feature_row:
     alt: "Bike Mount"
     title: "Bike Handlebar Phone Mount"
     excerpt: "Rotatable phone mount designed with top-down modeling!"
-  - image_path: assets/img/Top_Down_Rendering.png
+  - image_path: assets/img/GD_Skateboard_ALSi10Mg_Rendering.png
     alt: "GD Skateboard"
     title: "Generative Design Skateboard Hanger"
     excerpt: "Nylon-printed prototype for a lightweight skateboard hanger"
