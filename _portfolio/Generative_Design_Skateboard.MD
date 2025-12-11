@@ -69,14 +69,14 @@ Note: The applied loads in the model were based on a maximum body weight of 300 
 
 
 # Nylon vs Aluminum
-Two material options were provided for this generative design and resulted in vastly different outcomes despite having the same preserve, obstacle, and load parameters. The aluminum, being the stronger of the two, resulted in a much slimmer design which utilized far less material as seen in Figure ___. The nylon alternative resulted in a much bulkier design (seen in Figure ____) and emphasized the importance of significant obstacle geometry since material generated outside of what would be intuitively expected.
+Two material options were provided for this generative design and resulted in vastly different outcomes despite having the same preserve, obstacle, and load parameters. The aluminum, being the stronger of the two, resulted in a much slimmer design which utilized far less material as seen in Figure 7. The nylon alternative resulted in a much bulkier design (seen in Figure 8) and emphasized the importance of significant obstacle geometry since material generated outside of what would be intuitively expected.
 The slimmer aluminum design was printed out of Nylon on a pSLS printer for prototyping purposes. Although this printed part would not be sufficient for actual use, it represents a more promising and material-efficient option which could be executed on Vanderbilt University’s mSLS printer now that assembly has been confirmed. However, the Nylon alternative could be currently printed and effective, but would be costly and take up significantly more space in the pSLS print bed, limiting other parts that could be printed alongside it.
 
 ![Aluminum Design](/assets/img/GD_Skateboard_ALSi10Mg_Rendering.png)
-Figure 6: Rendering of printed design intended to be made with ALSi10Mg
+Figure 7: Rendering of printed design intended to be made with ALSi10Mg
 
 ![Nylon Design](/assets/img/GD_Skateboard_Rendering_Nylon.png)
-Figure 7: Hypothetical nylon design that could be printed using pSLS
+Figure 8: Hypothetical nylon design that could be printed using pSLS
 
 # GD Benefits vs Drawbacks
 At a broader scope, generative design capabilities are impressive, but perhaps not always necessary in part design. The technology can be useful for applications in which lightweighting is imperative such as aerospace, automotive, or medial fields. Additionally, the technology may be valuable if the current assembly process is particularly burdensome or a more ergonomic look/feel is desired. Finally generative design can be useful for brainstorming and prototyping. The generated load paths can give inspiration, illustrate efficient design strategies, or narrow down the most practical material even if the exact generative design is not utilized.
