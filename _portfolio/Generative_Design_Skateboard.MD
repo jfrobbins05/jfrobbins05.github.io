@@ -33,7 +33,7 @@ Figure 2: Fully assembled skateboard including generative design hanger
 
 One error in the original preserve geometry was the hole for the king pin which did not have significant clearance to be assembled even though there was sufficient room for the king pin. This error was resolved in the second iteration as can be seen in Figure 2 where the hanger and other skateboard components are fully assembled.
 
-![Full Assembly](/assets/img/Obstacle_Geometry.png)
+![Full Assembly](/assets/img/IMG_7490.jpg)
 Figure 3: Obstacle geometries in the Fusion generative design workspace
 
 Obstacle geometries were used to indicate where other components of the skateboard would be and clearances for assembly. Geometries slightly exceeding the size of the wheels, king pin, bearings, washers, axle, pulleys, motor, and spaces for the screws were included to prevent the generative design from creating any material that would interfere with these parts. Additionally, some areas required extra clearance for assembly such as above the bearings to ensure that they could be put on the king pin. Finally, an offset ground was modeled as an obstacle geometry to prevent any material from being generated too close to the theoretical ground which would impede the ability of the skateboard to lean. All of these obstacle geomteries can be seen in Figure 4.
