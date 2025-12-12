@@ -89,7 +89,9 @@ Overall, the drawbacks of generative design are likely not worth the beneifts fo
 
 # Citations
 General Motors. (n.d.). Driving a lighter, more efficient future of automotive part design. Autodesk. Retrieved December 10, 2025, from https://www.autodesk.com/customer-stories/general-motors-generative-design
+
 Raines, J., Barton, D., & Hicks, B. (2025). Scaling generative design for production through the use of standard parts. Proceedings of the Design Society, 5, 2831–2840. doi:10.1017/pds.2025.10297
+
 Watson, M., Leary, M., Downing, D., et al. (2023). Generative design of space frames for additive manufacturing technology. Int J Adv Manuf Technol 127, 4619–4639 (2023). https://doi.org/10.1007/s00170-023-11691-9
 
 
